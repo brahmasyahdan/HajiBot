@@ -1,0 +1,46 @@
+{
+  "id": "9e4d8b36-c326-47df-af1f-9475222ef78c",
+  "name": "d4_doa_sewaktu_kendaraan_mulai_bergerak",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿 DOA SEWAKTU KENDARAAN MULAI BERGERAK📿 \n--------------------------------------------------------------------------------\n\n \n https://www.youtube.com/watch?v\u003d6-i_5YUh0Cw\n \n بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ. اَللّٰهُ أَكْبَرُ، اَللّٰهُ أَكْبَرُ، اَللّٰهُ أَكْبَرُ. سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ. وَاِنَّا اِلَى رَبِّنَا لَمُنْقَلِبُوْنَ. اَللّٰهُمَّ اِنَّا نَسْأَلُكَ فِيْ سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوٰى وَمِنَ الْعَمَلِ مَا تَرْضٰى. اَللّٰهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهُ. اَللّٰهُمَّ أَنْتَ الصَّاحِبُ فِى السَّفَرِ وَالْخَلِيْفَةُ فِى اْلأَهْلِ. اَللّٰهُمَّ إِنَّا نَعُوْذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ وَكَآبَةِ الْمَنْظَرِ وَسُوْءِ الْمُنْقَلَبِ فِى الْمَالِ وَاْلأَهْلِ وَالْوَلَدِ.\n \n Bismillaahir rahmaanir rahiim. Allahu akbar, Allaahu akbar, Allaahu akbar. Subhaanal ladzii sakhkhara lanaa haadzaa wamaa kunnaa lahu muqriniin. Wa innaa ilaa rabbinaa lamunqalibuun. Allaahumma innaa nas-aluka fii safarinaa haadzal birra wattaqwaa waminal ‘amali maa tardhaa. Allaahumma hawwin ‘alainaa safaranaa haadzaa wa-athwi ‘annaa bu’dahu. Allaahumma antash shaahibu fis-safari wal-khaliifatu fil-ahli. Allaahumma innii a’uudzu bika min wa’tsaaa-is safari wa ka-aamatil manzhari wa suu-il munqalabi fil-maali wal-ahli wal-waladi.\n \n Artinya:\n “Dengan menyebut nama Allah yang Maha Pemurah lagi Maha Penyayang. Allah Maha Besar, Allah Maha Besar, Allah Maha Besar. Maha Suci Allah yang telah menggerakkan untuk kami kendaraan ini padahal kami tiada kuasa menggerakkannya. Dan sesungguhnya kami pasti kepada Tuhan, kami pasti akan kembali. Ya Allah, kami memohon kepada-Mu dalam perjalanan kami ini kebaikan dan taqwa serta amal perbuatan yang Kau ridhai. Ya Allah, mudahkanlah perjalanan kami ini dan dekatkan jauhnya. Ya Allah, Engkau adalah yang menyertai dalam bepergian dan pelindung terhadap keluarga yang ditinggalkan. Ya Allah, kami berlindung kepada-Mu dari kesukaran dalam bepergian, penampilan yang buruk, kepulangan yang menyusahkan akan harta benda, keluarga dan anak.”"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

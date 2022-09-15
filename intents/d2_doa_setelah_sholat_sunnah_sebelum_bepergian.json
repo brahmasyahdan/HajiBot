@@ -1,0 +1,46 @@
+{
+  "id": "7ee11770-948b-4791-8008-f3716e88a8fb",
+  "name": "d2_doa_setelah_sholat_sunnah_sebelum_bepergian",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿D2 DOA SETELAH SHOLAT SUNNAH SEBELUM BEPERGIAN📿\n---------------------------------------------------------------------------------\n \n https://www.youtube.com/watch?v\u003d_9iO_LJn2UU\n \n اَللّٰهُمَّ اِلَيْكَ تَوَجَّهْنَا وَبِكَ اعْتَصَمْنَا. اَللّٰهُمَّ اكْفِنَا مَا هَمَّنَا وَمَا لاَ نَهْتَمُّ لَهُ. اَللّٰهُمَّ زَوِّدْنَا التَّقْوَى وَاغْفِرْ لَنَا ذُنُوبَنَا. \n \n Allaahumma ilaika tawajjahnaa wabika i’tashamnaa. Allaahummakfinaa maa hammanaa wamaa laa nahtammu lahuu. Allaahumma zawwidnat taqwaa waghfir lanaa dzunuubanaa.\n \n Artinya:\n “Ya Allah, kepada-Mu kami menghadap dan dengan-Mu kami berpegang teguh. Ya Allah, lindungilah kami dari sesuatu yang menyusahkan dan sesuatu yang tidak saya perlukan. Ya Allah, bekalilah kami dengan taqwa dan ampunilah dosa kami.”"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

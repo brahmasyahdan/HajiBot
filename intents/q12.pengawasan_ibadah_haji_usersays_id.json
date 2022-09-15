@@ -1,0 +1,86 @@
+[
+  {
+    "id": "de9a12c0-e872-4f98-af66-1f5103b196aa",
+    "data": [
+      {
+        "text": "Pengawasan Penyelenggaraan Ibadah ",
+        "userDefined": false
+      },
+      {
+        "text": "Haji",
+        "userDefined": false
+      },
+      {
+        "text": " dilakukan oleh siapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3664044b-ea62-4637-bd88-27685eed54f2",
+    "data": [
+      {
+        "text": "Siapa yang  menjadi penanggung jawab dalam pengawasan Penyelenggaraan Ibadah ",
+        "userDefined": false
+      },
+      {
+        "text": "Haji",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5ea18e07-551f-4767-a8ae-57586d088a73",
+    "data": [
+      {
+        "text": "Penanggung jawab atas pengawasan Penyelenggaraan Ibadah ",
+        "userDefined": false
+      },
+      {
+        "text": "Haji",
+        "userDefined": false
+      },
+      {
+        "text": " adalah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "70b7553b-312f-4f0f-b02d-7fc7ace7f320",
+    "data": [
+      {
+        "text": "Siapakah yang bertanggung jawab dalam pengawasan Penyelenggaraan Ibadah ",
+        "userDefined": false
+      },
+      {
+        "text": "Haji",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

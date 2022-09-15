@@ -1,0 +1,32 @@
+[
+  {
+    "id": "55a02b27-8d57-4d57-bfdc-6bfd62c23f8c",
+    "data": [
+      {
+        "text": "doa setelah duduk di dalam ",
+        "userDefined": false
+      },
+      {
+        "text": "kendaraan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b2ed419d-1916-42c9-adac-b12cfa89bc70",
+    "data": [
+      {
+        "text": "d3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

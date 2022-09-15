@@ -1,0 +1,145 @@
+[
+  {
+    "id": "0b569384-0bc0-423e-9213-5745d2a1f441",
+    "data": [
+      {
+        "text": "btn_doa_zikir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "21283f31-5d5b-4300-b21e-0b868620e2cf",
+    "data": [
+      {
+        "text": "doa dan dzikir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d3e01c5e-1305-4d61-bdec-0b6cfd8dd8d4",
+    "data": [
+      {
+        "text": "zikir ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7e30a8d4-dd9e-4517-9cb1-74ba269c3f39",
+    "data": [
+      {
+        "text": "doa manasik ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "11c61967-ad5b-4581-8db6-ee00f0518a68",
+    "data": [
+      {
+        "text": "doa ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1afba971-49ca-42bd-a834-b0ff22411889",
+    "data": [
+      {
+        "text": "buku",
+        "userDefined": false
+      },
+      {
+        "text": " doa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2403ac42-26df-4d66-b005-e393d303b441",
+    "data": [
+      {
+        "text": "kumpulan ",
+        "userDefined": false
+      },
+      {
+        "text": "buku",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8fd3b4e0-38b1-4a10-9575-0315c77de17a",
+    "data": [
+      {
+        "text": "buku",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "82a40e8d-44a8-4666-b64c-a80a9f5861e6",
+    "data": [
+      {
+        "text": "doa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

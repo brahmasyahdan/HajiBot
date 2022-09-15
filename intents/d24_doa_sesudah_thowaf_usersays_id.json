@@ -1,0 +1,32 @@
+[
+  {
+    "id": "f50bed2e-449f-4c86-ae55-c11e57c754a9",
+    "data": [
+      {
+        "text": "doa sesudah ",
+        "userDefined": false
+      },
+      {
+        "text": "thowaf",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d4473d61-0336-4dbb-a154-c70eedce4074",
+    "data": [
+      {
+        "text": "d24",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ca21e645-29eb-4ad2-9b7c-550cc1cba798",
+    "data": [
+      {
+        "text": "siapa yang menyelenggarakan haji?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7410fc39-a0bc-4a47-b7c5-893f485470aa",
+    "data": [
+      {
+        "text": "Apakah yang dimaksud Penyelenggaraan Ibadah ",
+        "userDefined": false
+      },
+      {
+        "text": "Haji",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

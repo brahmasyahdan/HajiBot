@@ -1,0 +1,46 @@
+{
+  "id": "85864f8a-af6d-4810-82ff-58c4b9a8a1f3",
+  "name": "d1_doa_keluar_rumah",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿D1 DOA KELUAR RUMAH📿\n--------------------------------------------------\n \n https://www.youtube.com/watch?v\u003dUXycKSzJRwg\n \n اَلْحَمْدُ لِلّٰهِ الَّذِيْ هَدَانَا بِاْلإِسْلاَمِ وَاَرْشَدَنَا اِلَى اَدَاءِ مَنَاسِكِنَا حَاجِّيْنَ بِبَيْتِهِ وَمُعْتَمِرِيْنَ بِمَشَاعِرِهِ.\n اَللّٰهُمَّ صَلِّ عَلَى النَّبِيِّ اْلأُمِّيِّ وَعَلَى آلِهِ وَاَصْحَابِهِ اَجْمَعِيْنَ.\n بِسْمِ اللهِ آمَنَّا بِاللهِ.\n بِسْمِ اللهِ تَوَجَّهْنَا لِلّٰهِ.\n بِسْمِ اللهِ اعْتَصَمْنَا بِاللهِ.\n بِسْمِ اللهِ تَوَكَّلْنَا عَلَى اللهِ لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللهِ الْعَلِيِّ الْعَظِيْمِ.\n \n Alhamdu lillaahil ladzii hadaanaa bil-islaami wa arsyadanaa ilaa adaa-i manaasikinaa haajjiina bibaitihi wa mu’tamiriina bimasyaa’irihi.\n Allaahumma shalli ‘alan nabiyyil ummiyyi wa’alaa aalihi wa ashhaabihi ajma’iina.\n Bismillaahi aamannaa billaahi.\n Bismillaahi tawajjahnaa lillaahi.\n Bismillaahi’tashamnaa billaahi.\n Bismillaahi tawakkalnaa ‘alallaahi laa haula walaa quwwata illaa billaahil ‘aliyyil ‘azhiim.\n \n Artinya:\n “Segala puji bagi Allah yang telah memberi petunjuk kepada kami dengan Islam dan memberi bimbingan kepada kami untuk menunaikan manasik haji kami di rumah-Nya, dan mengerjakan umrah di tempat lambang-lambang keagungan-Nya (Masya’ir).\n Ya Allah, berilah rahmat atas Nabi yang tidak bisa baca dan tulis (ummi) dan atas keluarga dan para sahabatnya sekalian. Dengan nama Allah kami beriman kepada Allah. Dengan nama Allah kami berlindung kepada Allah. Dengan nama Allah kami berserah diri kepada Allah, tiada daya upaya dan tiada kekuatan melainkan atas izin Allah Yang Maha Luhur lagi Maha Agung."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

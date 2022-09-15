@@ -1,0 +1,46 @@
+{
+  "id": "6835437e-d964-4f12-94f2-d7c641035c14",
+  "name": "d24_doa_sesudah_thowaf",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿DOA SESUDAH THOWAF📿\n--------------------------------------------------------------------\n \n https://www.youtube.com/watch?v\u003dIwrVPkzcYDs\n \n اَللّٰهُمَّ يَا رَبَّ الْبَيْتِ الْعَتِيْقِ أَعْتِقْ رِقَابَنَا وَ رِقَابَ اٰبَائِنَا وَ أُمَّهَاتِنَا وَ إِخْوَانِنَا وَ أَوْلاَدِنَا مِنَ النَّارِ يَا ذَا الْجُوْدِ وَ الْكَرَمِ وَ الْفَضْلِ وَ الْمَنِّ وَ الْعَطَاءِ وَ اْلإِحْسَانِ. اَللّٰهُمَّ أَحْسِنْ عَاقِبَتَنَا فِى اْلأُمُوْرِ كُلِّهَا وَ أَجِرْنَا مِنْ خِزْيِ الدُّنْيَا وَ عَذَابِ اْلآخِرَةِ. اَللّٰهُمَّ إِنَّا عِبَادُكَ وَ أَبْنَاءُ عِبَادِكَ وَاقِفُوْنَ تَحْتَ بَابِكَ مُلْتَزِمُوْنَ بِأَعْتَابِكَ مُتَذَلِّلُوْنَ بَيْنَ يَدَيْكَ نَرْجُوْ رَحْمَتَكَ وَ نَخْشٰى عَذَابَكَ يَا قَدِيْمَ اْلإِحْسَانِ. اَللّٰهُمَّ إِنَّا نَسْأَلُكَ اَنْ تَرْفَعَ ذِكْرَنَا وَ تَضَعَ أَوْزَارَنَا وَ تُصْلِحَ أُمُوْرَنَا وَ تُطَهِّرَ قُلُوبَنَا وَ تُنَوِّرَ لَنَا فِيْ قُبُوْرِنَا وَ تَغْفِرَ لَنَا ذُنُوْبَنَا وَ نَسْأَلُكَ الدَّرَجَاتِ الْعُلٰى مِنَ الْجَنَّةِ. \n \n Allaahumma yaa rabbal baitil ‘atiiqi a’tiq riqaabanaa wariqaaba aabaa-inaa wa ummahaatinaa wa ikhwaaninaa wa aulaadinaa minan naari yaa dzal juudi wal-karami wal-fadhli wal-manni wal-‘athaa-i wal-ihsaani. Allaahumma ahsin ‘aaqibatanaa fil-umuuri kullihaa wa ajirnaa min khizyid dunyaa wa ‘adzaabil aakhirati. Allaahumma innaa ‘ibaaduka wa-abnaa’u ‘ibaadika waaqifuuna tahta baabika multazimuuna bi-a’taabika mutadzalliluuna baina yadaika narjuu rahmataka wa-nakhsyaa ‘adzaabaka yaa qadiimal ihsaan. Allaahumma innaa nas-aluka an tarfa’a dzikronaa watadha’a awzaaronaa wa tushliha umuuronaa watuthahhiro quluubanaa wa tunawwiro lanaa fii qubuurinaa wa taghfira lanaa dzunuubanaa wa-nas-alukad darajaatil ‘ulaa minal jannati.\n \n Artinya: “Ya Allah, yang memelihara Ka’bah ini, bebaskanlah diri kami, bapak dan ibu kami, saudara-saudara dan anak-anak kami dari siksa neraka, wahai Tuhan Yang Maha Pemurah, Dermawan dan Yang Mempunyai keutamaan, kemuliaan, kelebihan, anugerah, pemberian dan kebaikan. Ya Allah, perbaikilah kesudahan segenap urusan kami dan jauhkanlah dari kehinaan dunia dan siksa di akhirat. Ya Allah, sesungguhnya kami adalah hamba-Mu, anak-anak dari hamba-Mu, tegak berdiri merapat di bawah pintu Ka’bah-Mu menundukkan diri di hadapan-Mu sambil mengharapkan rahmat-Mu, kasih sayang-Mu, dan takut akan siksa-Mu. Wahai Tuhan pemilik kebaikan abadi, kami mohon pada-Mu agar Engkau tinggikan nama kami, hapuskan dosa-dosa kami, perbaiki segala urusan-urusan kami, bersihkan hati kami berilah cahaya kelak dalam kubur kami. Ampunilah dosa-dosa kami dan kami mohon pada-Mu martabat yang tinggi di dalam surga.”"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

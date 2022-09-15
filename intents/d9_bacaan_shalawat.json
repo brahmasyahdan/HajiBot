@@ -1,0 +1,46 @@
+{
+  "id": "dcca0806-e28e-4b15-881c-3f64ac735833",
+  "name": "d9_bacaan_shalawat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿BACAAN SHALAWAT📿 \n------------------------------------------------------------------------------\n \n https://youtu.be/xKWaSrEHD2U\n \n اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى اٰلِ سَيِّدِنَا مُحَمَّدٍ. \n \n Allaahumma shalli wasallim ‘alaa sayyidinaa Muhammad wa’alaa aali sayyidinaa Muhammad.\n \n Artinya: “Ya Allah limpahkan rahmat dan keselamatan kepada Nabi Muhammad dan keluarganya.”"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

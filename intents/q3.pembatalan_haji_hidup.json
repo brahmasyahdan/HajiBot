@@ -1,0 +1,61 @@
+{
+  "id": "79b44534-a22f-4f46-846c-ab3c3adf550a",
+  "name": "q3.pembatalan_haji_hidup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b3ac0d18-7753-47c9-8406-a7c7b197b889",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "🧾Pembatalan Haji dengan Alasan Pribadi🧾\n-----------------------------------------------------------------------------------------\n\nPembatalan pendaftaran jemaah haji dilakukan oleh jemaah haji baik dengan alasan pribadi maupun sudah melakukan pendaftaran haji dilakukan dengan datang ke KanKemenag tempat mendaftar asal dengan membawa persyaratan sebagai berikut :\n1. Surat permohonan pembatalan bermaterai Rp 6000,- dengan menyebutkan alasan pembatalan yang ditujukan ke Kepala KanKemenag kota asal\n2. Bukti Asli Setoran awal BPIH yang dikeluarkan oleh BPS BPIH\n3. Asli aplikasi transfer setoran awal BPIH ke rekening Menteri Agama\nAsli SPPH\n4. Fotocopy buku tabungan yang masih aktif atas nama jemaah haji yang bersangkutan dan memperlihatkan aslinya\n5. Fotocopy KTP dan KK serta memperlihatkan aslinya\n6. Semua rangkap 2 (dua)"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

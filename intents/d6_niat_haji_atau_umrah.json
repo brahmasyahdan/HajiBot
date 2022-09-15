@@ -1,0 +1,46 @@
+{
+  "id": "f318705c-c166-4edb-a5d0-3fa24ea34860",
+  "name": "d6_niat_haji_atau_umrah",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿NIAT HAJI📿\n  --------------------------------------------------------------------------------\n\n https://www.youtube.com/watch?v\u003dgV9gdfjbF8o\n \n لَبَّيْكَ اللّٰهُمَّ حَجًّا\n \n Labbaikallaahumma hajjan\n \n Artinya: Kami sambut panggilan-Mu ya Allah untuk berhaji.\n \n atau:\n \n نَوَيْتُ الْحَجَّ وَاَحْرَمْتُ بِهِ لِلّٰهِ تَعَالَى\n \n Nawaitul hajja wa ahramtu bihii lillaahi ta’aalaa.\n \n Artinya: Kami niat haji dengan berihram karena Allah Ta’ala.\n \n ❇️❇️❇️❇️❇️❇️❇️❇️❇️❇️❇️❇️❇️❇️❇️❇️\n\n NIAT HAJI DENGAN ISYTIRAT\n --------------------------------------------------------------------------------\n \n لَبَّيْكَ اللّٰهُمَّ حَجًّا, فَإِنْ حَبَسَنِيْ حَابِسٌ فَمَحِلِّيْ حَيْثُ حَبَسَنِيْ\n \n Labbaikalloohumma ‘hajjan, fain habasanii haabisun famahillii haitsu habasanii\n \n Artinya: \n Aku sambut panggilan-Mu ya Allah untuk berhaji. Tetapi jika aku terhalang oleh sesuatu, Yaa Alloh, maka aku akan bertahallul, di tempat aku terhalang itu."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

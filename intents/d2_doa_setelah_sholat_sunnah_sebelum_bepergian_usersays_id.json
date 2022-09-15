@@ -1,0 +1,36 @@
+[
+  {
+    "id": "7f195a38-afc5-4ff2-9fe8-9e5733c986a1",
+    "data": [
+      {
+        "text": "doa setelah ",
+        "userDefined": false
+      },
+      {
+        "text": "sholat",
+        "userDefined": false
+      },
+      {
+        "text": " sunnah sebelum bepergian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6d92fcd3-2dff-4d38-8114-5db48812c5ca",
+    "data": [
+      {
+        "text": "d2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

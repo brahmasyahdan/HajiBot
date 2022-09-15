@@ -1,0 +1,89 @@
+{
+  "id": "a05db6d3-1ec7-4d50-8add-9d123521a0aa",
+  "name": "q0.biaya_haji",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "74b6e827-d4b9-4314-bba9-18eb57d27173",
+          "name": "harga",
+          "required": false,
+          "dataType": "@harga",
+          "value": "$harga",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c064fe93-1788-45e3-bdd8-a4f99ad578c3",
+          "name": "currency-name",
+          "required": false,
+          "dataType": "@sys.currency-name",
+          "value": "$currency-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "78c86d66-8ee3-46a1-b56f-61e9c76a0cc4",
+          "name": "daftar",
+          "required": false,
+          "dataType": "@daftar",
+          "value": "$daftar",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Biaya haji  diperkirakan lebih mahal dibandingkan tahun sebelumnya dikarenakan adanya tambahan biaya untuk tes dan protokol kesehatan. Biaya haji pada tahun 2021 ini diperkirakan mencapai Rp 44,3 juta.."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

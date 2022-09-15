@@ -1,0 +1,83 @@
+{
+  "id": "5efba562-7f6d-4c4f-a4a3-e8e6d3df8c54",
+  "name": "btn_daftar_bank",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🟢"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🧾Bank Penerima Setoran BPIH🧾\n-----------------------------------------------------------------------------------------\n\nMandiri Syariah\nBank Muamalat\nBNI Syariah\nPanin Bank Syariah\nPermata Bank\nBank Jateng\nCIMB Niaga Syariah\nBank Riau Kepri\nBank Mega Syariah\nBank Sumut\nBank DKI Syariah\nBank Jatim\nBank Aceh Syariah\nBank Sumsel\nBank Nagari\nBTN Syariah"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Klik tombol kembali untuk ke menu sebelumnya",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "daftar haji",
+              "text": "↩️ Kembali"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🔴"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

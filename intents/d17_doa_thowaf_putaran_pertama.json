@@ -1,0 +1,46 @@
+{
+  "id": "0f80a3d6-05ed-4430-8c5f-464b512e7e9c",
+  "name": "d17_doa_thowaf_putaran_pertama",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿DOA THOWAF PUTARAN PERTAMA 📿\n--------------------------------------------------------------------\n \n https://www.youtube.com/watch?v\u003dbnS8eGZwe94\n \n Dibaca mulai dari hajar Aswad sampai Rukun Yamani:\n \n Saat lurus dengan hajar aswad menghadapkan muka ke hajar aswad, seraya mengangkat tangan kanan dan membaca:\n \n بِسْمِ اللهِ اَللّٰهُ أَكْبَرُ\n \n Bismillaahi Alloohu akbar. Artinya: “Dengan nama Allah, Allah Maha Besar.”\n  \n Kemudian mengecup tangan kanan, lalu bergerak dengan posisi Ka’bah di sebelah kiri, membaca doa berikut:\n \n سُبْحَانَ اللهِ وَ الْحَمْدُ لِلّٰهِ وَ لاَ إِلٰهَ إِلاَّ اللهُ وَ اللهُ أَكْبَرُ وَ لاَ حَوْلَ وَ لاَ قُوَّةَ إِلاَّ بِاللهِ الْعَلِيِّ الْعَظِيْمِ، وَ الصَّلاَةُ وَ السَّلاَمُ عَلَى رَسُوْلِ اللهِ صَلَّى اللهُ عَلَيْهِ وَ سَلَّمَ. اَللّٰهُمَّ إِيْمَانًا بِكَ وَ تَصْدِيْقًا بِكِتَابِكَ وَ وَفَاءً بِعَهْدِكَ وَ اتِّبَاعًا لِسُنَّةِ نَبِيِّكَ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَ سَلَّمَ. اَللّٰهُمَّ إِنَّا نَسْأَلُكَ الْعَفْوَ وَ الْعَافِيَةَ وَ الْمُعَافَاةَ الدَّائِمَةَ فِى الدِّيْنِ وَ الدُّنْيَا وَ اْلآخِرَةِ وَ الْفَوْزَ بِالْجَنَّةِ وَ النَّجَاةَ مِنَ النَّارِ.\n \n Subhaanalloohi walhamdulillaahi walaa ilaaha illalloohu walloohu akbar, walaa haula walaa quwwata illaa billaahil ‘aliyyil ‘azhiim. wash-sholaatu was-salaamu ‘alaa rasuulillaahi, shollalloohu ‘alaihi wasallam. Alloohumma iimaanan bika watashdiiqan bikitaabika wawafaa-an bi’ahdika wattibaa’an lisunnati nabiyyika Muhammadin shollalloohu ‘alaihi wasallam. Alloohumma innaa nas-alukal ‘afwa wal-‘aafiyata wal-mu’aafaatad daa-imata fiddiini waddun-yaa wal-aakhiroh, wal-fauza bil-jannati wan-najaata minan naar.\n \n Artinya: \n “Maha suci Allah, segala puji bagi Allah, tidak ada Tuhan selain Allah, Allah Maha Besar. Tiada daya (untuk memperoleh manfaat) dan tiada kemampuan (untuk menolak bahaya) kecuali dengan pertolongan Allah Yang Maha Mulia dan Maha Agung. Shalawat dan salam bagi Rasulullah SAW. Ya Allah, kami thawaf ini karena beriman kepada-Mu, membenarkan kitab-Mu dan memenuhi janji-Mu dan mengikuti sunnah Nabi-Mu Muhammad SAW. Ya Allah, sesungguhnya kami mohon kepada-Mu ampunan, kesehatan dan perlindungan yang kekal dalam menjalankan agama, di dunia dan di akhirat dan beruntung memperoleh surga dan terhindar dari siksa neraka.”\n \n Setiap kali sampai di rukun yamani mengusapnya. kalau tidak mungkin, maka cukup mengangkat tangan sambil mengucap:\n \n بِسْمِ اللهِ اَللّٰهُ أَكْبَرُ.\n \n Bismillaahi walloohu akbar. Artinya: “Dengan nama Allah, Allah Maha Besar.”\n \n Doa diantara rukun yamani dan hajar aswad: \n \n رَبَّنَا اٰتِنَا فِى الدُّنْيَا حَسَنَةً وَفِى اْلآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ.\n \n Robbanaa aatinaa fiddun-yaa hasanah, wafil-aakhiroti hasanah, waqinaa ‘adzaaban naar.\n \n Artinya: \n \"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka.\"\n \n Dapat ditambahkan:\n \n وَأَدْخِلْنَا الْجَنَّةَ مَعَ اْلأَبْرَارِ. يَاعَزِيْزُ يَاغَفَّارُ يَارَبَّ الْعَالَمِيْنَ. \n \n Wa adkhilnal jannata ma’al abroor, Yaa ‘aziizu yaa ghoffar, yaa robbal ‘aalamiin.\n \n Artinya: \n “Dan masukkanlah kami ke dalam surga bersama orang-orang yang berbuat baik, wahai Tuhan Yang Maha Perkasa, Maha Pengampun dan Tuhan yang menguasai seluruh alam.”"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

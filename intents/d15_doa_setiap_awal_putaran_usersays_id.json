@@ -1,0 +1,36 @@
+[
+  {
+    "id": "fb578526-a585-4120-9550-4ef4fec669bb",
+    "data": [
+      {
+        "text": "doa setiap ",
+        "userDefined": false
+      },
+      {
+        "text": "awal",
+        "userDefined": false
+      },
+      {
+        "text": " putaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b6aea4ec-6d04-4f3c-bea3-e948bc41509b",
+    "data": [
+      {
+        "text": "d15",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "id": "fac9b6d4-e980-4e56-b458-3156a402988c",
+  "name": "q12.pengawasan_ibadah_haji",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Pengawasan Penyelenggaraan Ibadah Haji dilaksanakan oleh pengawas internal dan pengawas ekternal (sesuai dengan Pasal 3 PMA 41 Tahun 2015 tentang Petugas Pengawasan Penyelenggaraan Ibadah Haji di Arab Saudi). Unsur pengawas internal pemerintah terdiri dari Inspektorat Jenderal Kementerian Agama, Inspektorat Jenderal Kementerian Kesehatan, Inspektorat Jenderal Kementerian Kesehatan, dan BPKP. Sedangkan pengawas eksternal pemerintah terdiri dari DPR RI, DPD RI, BPK RI, KPHI, dan unsur lainnya."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

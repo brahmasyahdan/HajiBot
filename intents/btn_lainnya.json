@@ -1,0 +1,103 @@
+{
+  "id": "b617c68f-d690-4b84-822e-2f6158d00414",
+  "name": "btn_lainnya",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🟢"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🛎 Lainnya\n-------------------------------------------------------------------------\n\nDi dalam menu ini terdapat beberapa menu dan dari beberapa menu tersebut terdapat menu untuk mendapatkan informasi dari pengumuman"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Pilih menu di bawah ini",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "kbih",
+              "text": "✈️ Data KBIH"
+            },
+            {
+              "postback": "website",
+              "text": "🌐 Daftar Website"
+            },
+            {
+              "postback": "btn_pengembaian_dana_batal_haji",
+              "text": "💵 Pengembalian"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Klik tombol di bawah ini untuk ke menu utama",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "home",
+              "text": "↩️ Kembali"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🔴"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

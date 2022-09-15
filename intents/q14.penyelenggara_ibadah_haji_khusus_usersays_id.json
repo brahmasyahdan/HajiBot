@@ -1,0 +1,65 @@
+[
+  {
+    "id": "aeac360f-bec2-4675-b493-eba3ea1bec8f",
+    "data": [
+      {
+        "text": "Siapa yang mengadakan ibadah ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": " khusus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "72ef9eea-0d82-4fdf-a8ed-8bfe5618e963",
+    "data": [
+      {
+        "text": "Yang menyelenggarakan ibadah ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": " khusus adalah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "25ed6817-7906-4444-8421-6aed6b682bef",
+    "data": [
+      {
+        "text": "Siapakah yang menjadi penyelenggara ibadah ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": " khusus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

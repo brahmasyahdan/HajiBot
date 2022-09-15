@@ -1,0 +1,32 @@
+[
+  {
+    "id": "4400b788-1c9d-4008-bd0b-3837fb295ca2",
+    "data": [
+      {
+        "text": "doa ",
+        "userDefined": false
+      },
+      {
+        "text": "keluar rumah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "018fc969-7d03-47c4-84a6-f4ce68c62b7b",
+    "data": [
+      {
+        "text": "d1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

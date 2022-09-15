@@ -1,0 +1,46 @@
+{
+  "id": "1c1df4cc-1fa2-470c-9410-51030ed2a439",
+  "name": "d20_doa_thowaf_putaran_keempat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿DOA THOWAF PUTARAN KEEMPAT 📿\n-------------------------------------------------------------------- \n\n https://www.youtube.com/watch?v\u003dspRWzgDnNK0\n \n Dibaca mulai dari hajar Aswad sampai Rukun Yamani:\n \n Saat lurus dengan hajar aswad menghadapkan muka ke hajar aswad, seraya mengangkat tangan kanan dan membaca:\n \n بِسْمِ اللهِ اَللّٰهُ أَكْبَرُ\n \n Bismillaahi Alloohu akbar. Artinya: “Dengan nama Allah, Allah Maha Besar.”\n  \n Kemudian mengecup tangan kanan, lalu bergerak dengan posisi Ka’bah di sebelah kiri, membaca doa berikut:\n \n اَللّٰهُمَّ اجْعَلْهُ حَجًّا مَبْرُوْرًا وَسَعْيًا مَشْكُوْرًا وَ ذَنْبًا مَغْفُوْرًا وَ عَمَلاً صَالِحًا مَقْبُوْلاً وَ تِجَارَةً لَنْ تَبُوْرَ. يَا عَالِمَ مَا فِى الصُّدُوْرِ، أَخْرِجْنَا يَا اَللّٰهُ مِنَ الظُّلُمَاتِ إِلَى النُّوْرِ. اَللّٰهُمَّ إِنَّا نَسْأَلُكَ مُوْجِبَاتِ رَحْمَتِكَ وَ عَزَائِمَ مَغْفِرَتِكَ وَ السَّلاَمَةَ مِنْ كُلِّ إِثْمٍ وَ الْغَنِيْمَةَ مِنْ كُلِّ بِرٍّ وَ الْفَوْزَ بِالْجَنَّةِ وَ النَّجَاةَ مِنَ النَّارِ. رَبَّنَا قَنِّعْنَا بِمَا رَزَقْتَنَا وَ بَارِكْ لَنَا فِيْمَا أَعْطَيْتَنَا وَ اخْلُفْ عَلَيْنَا كُلَّ غَائِبَةٍ لَنَا مِنْكَ بِخَيْرٍ.\n \n Alloohummaj’alhu hajjan mabruuroo, wasa’yan masykuuroo, wadzanban maghfuuroo, wa’amalan shoolihan maqbuulaa, watijaarotan lan tabuur, Yaa ‘aalima maa fish-shuduur, akhrijnaa ya Allooh, minazh zhulumaati ilan nuur. Alloohumma innaa nas-aluka muujibaati rohmatika wa ‘azaa-ima maghfirotik, was-salaamata min kulli itsmin, wal-ghaniimata min kulli birrin, wal-fauza biljannati wan-najaata minan naar. Robbanaa qonni’naa bimaa rozaqtanaa wabaarik lanaa fiimaa a’thoitanaa wakhluf ‘alaynaa kulla ghoo-ibatin lanaa minka bikhaiir.\n \n Artinya: \n “Ya Allah, karuniakanlah haji yang mabrur, sa’i yang diterima, dosa yang diampuni, amal yang saleh yang diterima dan usaha yang tidak akan mengalami rugi. Wahai Tuhan Yang Maha Mengetahui apa-apa yang terkandung dalam hati sanubari. Keluarkanlah kami dari kegelapan ke cahaya yang terang benderang. Ya Allah kami mohon kepada-Mu segala hal yang mendatangkan rahmat-Mu dan keteguhan ampunan-Mu, selamat dari segala dosa dan beruntung dengan mendapat berbagai kebaikan, beruntung memperoleh surga, terhindar dari siksa neraka. Tuhan kami, puaskanlah kami dengan anugerah yang telah Engkau berikan, berkatilah untuk kami atas semua yang Engkau anugerahkan kepada kami dan gantilah apa-apa yang ghaib dari pandangan kami dengan kebajikan darimu.”\n \n Setiap kali sampai di rukun yamani mengusapnya. kalau tidak mungkin, maka cukup mengangkat tangan sambil mengucap:\n \n بِسْمِ اللهِ اَللّٰهُ أَكْبَرُ.\n \n Bismillaahi walloohu akbar. Artinya: “Dengan nama Allah, Allah Maha Besar.”\n \n Doa diantara rukun yamani dan hajar aswad: \n \n رَبَّنَا اٰتِنَا فِى الدُّنْيَا حَسَنَةً وَفِى اْلآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ.\n \n Robbanaa aatinaa fiddun-yaa hasanah, wafil-aakhiroti hasanah, waqinaa ‘adzaaban naar.\n \n Artinya: \n \"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka.\"\n \n Dapat ditambahkan:\n \n وَأَدْخِلْنَا الْجَنَّةَ مَعَ اْلأَبْرَارِ. يَاعَزِيْزُ يَاغَفَّارُ يَارَبَّ الْعَالَمِيْنَ. \n \n Wa adkhilnal jannata ma’al abroor, Yaa ‘aziizu yaa ghoffar, yaa robbal ‘aalamiin.\n \n Artinya: \n “Dan masukkanlah kami ke dalam surga bersama orang-orang yang berbuat baik, wahai Tuhan Yang Maha Perkasa, Maha Pengampun dan Tuhan yang menguasai seluruh alam.”"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

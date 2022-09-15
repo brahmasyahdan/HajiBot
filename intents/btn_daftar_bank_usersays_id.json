@@ -1,0 +1,121 @@
+[
+  {
+    "id": "caade3e0-b348-4993-b217-c08c657c62fe",
+    "data": [
+      {
+        "text": "btn_daftar_bank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ef767bc0-6a60-4cbc-bb84-d273e6c5f0ce",
+    "data": [
+      {
+        "text": "bank",
+        "userDefined": false
+      },
+      {
+        "text": " mana saja yang bisa dipakai untuk pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8a94afd3-830d-4cd4-9e1b-95a28a06ffe5",
+    "data": [
+      {
+        "text": "bank",
+        "userDefined": false
+      },
+      {
+        "text": " mana saja yang digunakan untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6631ea8a-024a-4d3d-aabe-bb9485b40668",
+    "data": [
+      {
+        "text": "info bank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e34751af-9bfc-482f-8b95-a534a64ab694",
+    "data": [
+      {
+        "text": "bank ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e26ad3c4-cd4d-4a53-bf1f-0d4cd9deddb7",
+    "data": [
+      {
+        "text": "bank",
+        "userDefined": false
+      },
+      {
+        "text": " penerima ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b4303cc0-acec-4c9e-8c4f-efa5fea433ec",
+    "data": [
+      {
+        "text": "bank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

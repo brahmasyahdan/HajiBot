@@ -1,0 +1,154 @@
+{
+  "id": "e4ef79ef-369f-4f4d-81f2-7fe7f6d83377",
+  "name": "btn_daftar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c787cbc0-1195-449a-965c-f30a871247dc",
+          "name": "daftar",
+          "required": false,
+          "dataType": "@daftar",
+          "value": "$daftar",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🟢"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🧾Pendaftaran Haji🧾\n-----------------------------------------------------------------------------------------\n\nKementerian Agama (Kemnag) masih akan membuka pendaftaran calon jamaah haji\nSilahkan memilih menu di bawah ini ;\n❗️Aktifkan dulu fitur lokasi di perangkat anda jika ingin mengetahui lokasi"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "👳🏻‍♂️----------------------------------------------------------------------------🧕🏻",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "btn_syarat",
+              "text": "🔘 Syarat"
+            },
+            {
+              "postback": "btn_daftar_alur_pendaftaran",
+              "text": "🔘 Alur Pendaftaran"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "👳🏻‍♂️----------------------------------------------------------------------------🧕🏻",
+          "title": "",
+          "buttons": [
+            {
+              "text": "💵 Keuangan"
+            },
+            {
+              "text": "🧕🏽 Mahrom"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "👳🏻‍♂️----------------------------------------------------------------------------🧕🏻",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "https://www.google.co.id/maps/search/kemenag+terdekat/@-1.8141484,117.8516324,4z/data\u003d!3m1!4b1",
+              "text": "🗺 Kemenag"
+            },
+            {
+              "postback": "https://www.google.co.id/maps/search/lokasi+travel+haji+dan+kbih+terdekat/@-7.8719355,110.2142485,9.33z",
+              "text": "✈️ KBIH"
+            },
+            {
+              "postback": "btn_daftar_bank",
+              "text": "🏧 Daftar Bank"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Klik tombol kembali untuk ke menu utama",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "home",
+              "text": "↩️ Kembali"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🔴"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

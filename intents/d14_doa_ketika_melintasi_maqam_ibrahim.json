@@ -1,0 +1,46 @@
+{
+  "id": "66c4a606-8e58-4abf-9e1d-ad23bfb06b9f",
+  "name": "d14_doa_ketika_melintasi_maqam_ibrahim",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿DOA KETIKA MELINTASI MAQAM IBRAHIM📿\n---------------------------------------------------------------------------\n \n https://youtu.be/Dn3brkq3Ap4\n \n رَبِّ أَدْخِلْنِيْ مُدْخَلَ صِدْقٍ وَأَخْرِجْنِيْ مُخْرَجَ صِدْقٍ وَاجْعَلْ لِيْ مِنْ لَدُنْكَ سُلْطَانًا نَصِيْرًا. وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ اِنَّ الْبَاطِلَ كَانَ زَهُوْقًا.\n \n Rabbi adkhilnii mudkhala shidqin wa akhrijnii mukhraja shidqin waj’al lii min ladukna sulthaanan nashiiraa. Waqul jaa-al haqqu wazahaqal baathilu innal baathila kaana zahuuqaa.\n \n Artinya: “Ya Tuhanku, masukkanlah kami secara masuk yang benar dan keluarkanlah (pula) kami secara keluar yang benar dan berikanlah kepada kami dari sisi-Mu kekuasaan yang menolong. Dan katakanlah (wahai Muhammad) yang benar telah dating dan yang batil telah lenyap. Sesungguhnya yang batil itu adalah sesuatu yang pasti lenyap.”"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

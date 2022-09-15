@@ -1,0 +1,9 @@
+{
+  "id": "6681fd01-1796-4be3-9b71-ed391a53f216",
+  "name": "daftar",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "ecce23d3-dd45-4a9e-bd7b-950db3cca699",
+    "data": [
+      {
+        "text": "doa ",
+        "userDefined": false
+      },
+      {
+        "text": "thowaf",
+        "userDefined": false
+      },
+      {
+        "text": " putaran ",
+        "userDefined": false
+      },
+      {
+        "text": "kedua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f56d03c4-4b35-4fc7-a336-5487d378c6a5",
+    "data": [
+      {
+        "text": "d18",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

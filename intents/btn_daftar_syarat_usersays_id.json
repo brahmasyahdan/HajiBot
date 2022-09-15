@@ -1,0 +1,158 @@
+[
+  {
+    "id": "76f1de94-25da-4c08-b9a8-08f98e190645",
+    "data": [
+      {
+        "text": "tabungan",
+        "meta": "@tabungan",
+        "alias": "tabungan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ad0d6a4e-f506-4369-9507-6859b738fbc7",
+    "data": [
+      {
+        "text": "akta",
+        "meta": "@akta",
+        "alias": "akta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1de9e12c-dd8b-4da2-b297-e1a9a0c08b3f",
+    "data": [
+      {
+        "text": "photo",
+        "meta": "@photo",
+        "alias": "photo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "730a0104-6387-4b9e-b1f8-655138b7375c",
+    "data": [
+      {
+        "text": "kk",
+        "meta": "@KK",
+        "alias": "KK",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ed1fda04-bd11-490c-a6c9-4187db3212ba",
+    "data": [
+      {
+        "text": "KTP",
+        "meta": "@ktp",
+        "alias": "ktp",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "69ae8b06-e107-40b5-a9fc-8501fadfd908",
+    "data": [
+      {
+        "text": "persyaratan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9e25f13a-0966-46a9-bbc4-1feaca0ccc0c",
+    "data": [
+      {
+        "text": "syarat apa saja yang dibutuhkan untuk daftar ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "56acce0f-80fc-49a3-94df-1dcb0d1cc2ec",
+    "data": [
+      {
+        "text": "apa saja yang dibutuhkan untuk daftar ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "99ffb887-0702-4ced-b7f3-e1ea53af4600",
+    "data": [
+      {
+        "text": "persyaratan ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e6155b8c-9b71-47ac-ba04-daf2b5ed840c",
+    "data": [
+      {
+        "text": "syarat ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

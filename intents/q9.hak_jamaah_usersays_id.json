@@ -1,0 +1,115 @@
+[
+  {
+    "id": "af5dfcc3-605a-472e-b21e-2f5732a2c049",
+    "data": [
+      {
+        "text": "Apa yang diperoleh ",
+        "userDefined": false
+      },
+      {
+        "text": "jamaah",
+        "meta": "@jamaah",
+        "alias": "jamaah",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": " setelah mendaftar haji?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b7d8e921-46b6-4f50-86f3-3e8dcc5bff0c",
+    "data": [
+      {
+        "text": "hak ",
+        "userDefined": false
+      },
+      {
+        "text": "pendaftar",
+        "meta": "@daftar",
+        "alias": "daftar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b32d7475-ca0b-4681-a836-e77232085c1c",
+    "data": [
+      {
+        "text": "hak jamaah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bd99482b-933e-4ba9-8169-cc9045b45765",
+    "data": [
+      {
+        "text": "Apa saja hak yang diberikan kepada jamah ",
+        "userDefined": false
+      },
+      {
+        "text": "haji?",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c653ca07-ba84-40ec-b734-1778373b7282",
+    "data": [
+      {
+        "text": "Apakah Hak Yang Dimiliki Oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "Jemaah",
+        "meta": "@jamaah",
+        "alias": "jamaah",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Haji",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

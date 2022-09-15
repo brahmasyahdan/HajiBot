@@ -1,0 +1,179 @@
+[
+  {
+    "id": "996ceb3e-de04-4106-bd58-521cc3e3da23",
+    "data": [
+      {
+        "text": "kuota",
+        "meta": "@daftar",
+        "alias": "daftar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1708476b-9804-47ed-9733-ca170432c3d5",
+    "data": [
+      {
+        "text": "masih",
+        "userDefined": false
+      },
+      {
+        "text": " adakah ",
+        "userDefined": false
+      },
+      {
+        "text": "pendaftaran",
+        "meta": "@daftar",
+        "alias": "daftar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5db35358-4ea5-45d4-b071-42bbeccf48f9",
+    "data": [
+      {
+        "text": "apakah ",
+        "userDefined": false
+      },
+      {
+        "text": "pendaftaran",
+        "meta": "@daftar",
+        "alias": "daftar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "masih dibuka",
+        "meta": "@daftar",
+        "alias": "daftar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "11f92f6b-ed34-4a99-a5bc-5e24d31b8705",
+    "data": [
+      {
+        "text": "cara ",
+        "userDefined": false
+      },
+      {
+        "text": "daftar",
+        "meta": "@daftar",
+        "alias": "daftar",
+        "userDefined": true
+      },
+      {
+        "text": " haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "dec5e116-0b2a-4bb1-8511-2d0c1f4f2182",
+    "data": [
+      {
+        "text": "bagaimana caranya saya bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "mendaftar",
+        "userDefined": true
+      },
+      {
+        "text": " menjadi jamaah ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "65419fb7-fd27-4c0d-8746-27c4d47c825c",
+    "data": [
+      {
+        "text": "daftar",
+        "meta": "@daftar",
+        "alias": "daftar",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b95b442b-9031-4e10-a6da-24497ed5bd6a",
+    "data": [
+      {
+        "text": "btn_daftar",
+        "meta": "@daftar",
+        "alias": "daftar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

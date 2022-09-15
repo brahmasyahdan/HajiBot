@@ -1,0 +1,36 @@
+{
+  "id": "6935bc98-7416-4477-b388-319fb9b8109a",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "mohon maaf, kata yang anda masukkan tidak ada di database kami mohon kirimkan kata lain.",
+            "mohon maaf, saya tidak mngerti kata yang anda maksud mohon masukkan lagi kata yang lain."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

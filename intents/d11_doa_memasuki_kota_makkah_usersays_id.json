@@ -1,0 +1,40 @@
+[
+  {
+    "id": "f67bccb8-4674-4985-9468-e94fe6e631a8",
+    "data": [
+      {
+        "text": "doa memasuki ",
+        "userDefined": false
+      },
+      {
+        "text": "kota",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "makkah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fb43c1b4-6d00-445c-a4ee-1a7e0a7ec30d",
+    "data": [
+      {
+        "text": "d11",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

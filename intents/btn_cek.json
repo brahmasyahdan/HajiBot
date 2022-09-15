@@ -1,0 +1,95 @@
+{
+  "id": "302806b9-1778-4a5b-8c73-ee59abc5c15d",
+  "name": "btn_cek",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🟢"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🗃 Cek Status Haji\n-------------------------------------------------\n\n1) Perkiraan keberangkatan dapat berubah sesuai perubahan kuota provinsi/kab/kota/haji khusus dan perubahan regulasi \n2) Perkiraan keberangkatan hanya dihitung untuk jemaah yang belum batal atau belum berangkat\n3) Selama masa operasional haji, dilakukan perubahan tahun awal menjadi tahun berikutnya untuk antisipasi jemaah yang akan berangkat. Selesai masa operasional, perkiraan berangkat semua jemaah dalam status poin 2 dimulai dari musim haji berikutnya\n4) Jika nomor porsi anda mundur pada masa operasional haji, silakan cek kembali setelah masa operasional haji.\n5) Dengan adanya pandemi haji keberangkatan haji di undur \n\nCek status keberangkatan anda melalui menu di bawah ini"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Silahkan klik tombol di bawah ini",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "https://haji.kemenag.go.id/v4/",
+              "text": "🗃 Cek Status Haji"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Klik tombol kembali untuk ke menu utama",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "home",
+              "text": "↩️ Kembali"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🔴"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

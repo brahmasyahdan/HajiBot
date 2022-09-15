@@ -1,0 +1,83 @@
+{
+  "id": "c5c02c15-ca54-4292-94f5-f93ac7a96324",
+  "name": "btn_mahrom",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🟢"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🧾Penggabungan Mahrom Haji🧾\n-----------------------------------------------------------------------------------------\n\n\nYang dimaksud jemaah haji penggabungan adalah jamaah haji yang terpisah / berbeda waktu keberangkatannya dengan yang digabung. Sebagai syarat utama adalah salah satu jamaah haji harus dinyatakan berhak lunas tahun berjalan dan jamaah penggabung sudah terdaftar 3 (tiga) tahun sebelumnya terhitung dari keberangkatan kloter 1 tahun ini. Hubungan keluarga yang bisa mengajukan penggabungan adalah suami-istri dan anak-orangtua kandung. Tidak memperhatikan usia dan tidak memperhatikan jenis kelamin.\n\nMisalnya untuk keberangkatan tahun 2020 maka :\nSudah terdaftar sebelum 26 Juni 2017 (keberangkatan kloter pertama 26 Juni 2020)\n\nPersyaratan Pengajuan Penggabungan\n\n1). Hubungan Keluarga Suami/Istri dan Anak-Orangtua kandung\n\n2). Surat Permohonan yang ditujukan kepada Kepala Kantor Kementerian Agama Kabupaten/Kota sesuai domisili.\n\n3). Foto copy KTP dan KK jemaah berhak berangkat dan penggabung dilegalisir\n\n4). Foto copy dokumen yang menunjukkah hubungan keluarga antara yang berhak berangkat dan penggabung dilegalisir (Akte Kelahiran dan / atau Buku Nikah)\n\n5).Foto copy bukti setoran awal BPIH jemaah haji penggabung\n\n6). Foto copy bukti setoran lunas BPIH calon jemaah berhak berangkat\n\n7). Foto copy paspor (jika sudah ada)"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Klik tombol kembali untuk ke menu sebelumnya",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "btn_daftar",
+              "text": "↪️ Kembali"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🔴"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

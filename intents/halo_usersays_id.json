@@ -1,0 +1,41 @@
+[
+  {
+    "id": "265b8c8a-72a4-41fa-b36b-cc77d105d99d",
+    "data": [
+      {
+        "text": "hai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9267391a-d5af-4bde-bad4-c462281fa0c1",
+    "data": [
+      {
+        "text": "halo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4ce1864b-3f0f-4648-8ff3-8542f91572d2",
+    "data": [
+      {
+        "text": "hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

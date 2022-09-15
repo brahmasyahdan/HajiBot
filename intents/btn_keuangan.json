@@ -1,0 +1,87 @@
+{
+  "id": "8f7ba4ce-9130-4f60-9685-8afc0c14d689",
+  "name": "btn_keuangan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🟢"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🧾Keuangan Haji🧾\n-----------------------------------------------------------------------------------------\n\nBPKH adalah lembaga yang melakukan pengelolaan Keuangan Haji. Keuangan Haji adalah semua hak dan kewajiban pemerintah yang dapat dinilai dengan uang terkait dengan penyelenggaraan ibadah haji serta semua kekayaan dalam bentuk uang atau barang yang dapat dinilai dengan uang sebagai akibat pelaksanaan hak dan kewajiban tersebut, baik yang bersumber dari jemaah haji maupun sumber lain yang sah dan tidak mengikat.Pengelolaan Keuangan Haji berasaskan pada prinsip syariah, prinsip kehati-hatian, manfaat, nirlaba, transparan dan akuntabel. Pengelolaan Keuangan Haji bertujuan meningkatkan kualitas Penyelenggaraan Ibadah Haji, rasionalitas dan efisiensi penggunaan BPIH dan manfaat bagi kemaslahatan umat Islam."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Silahkan klik tombol di bawah ini untuk mengecek rekening",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "https://va.bpkh.go.id/",
+              "text": "💷 BPKH"
+            },
+            {
+              "postback": "btn_daftar",
+              "text": "↪️ Kembali"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🔴"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

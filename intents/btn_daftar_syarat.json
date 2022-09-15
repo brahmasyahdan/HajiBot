@@ -1,0 +1,154 @@
+{
+  "id": "bd3eb393-ee05-4841-867d-fc93cc3bf02d",
+  "name": "btn_daftar_syarat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "60bf0ac6-3036-427e-b39f-672a4c07e21c",
+          "name": "KK",
+          "required": false,
+          "dataType": "@KK",
+          "value": "$KK",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4071f530-bf16-40b3-9f10-ca7c911e74a6",
+          "name": "ktp",
+          "required": false,
+          "dataType": "@ktp",
+          "value": "$ktp",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "837374cf-a0af-49ba-9528-06481c720347",
+          "name": "photo",
+          "required": false,
+          "dataType": "@photo",
+          "value": "$photo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e53e3668-f22b-4686-b10a-5717c245521b",
+          "name": "akta",
+          "required": false,
+          "dataType": "@akta",
+          "value": "$akta",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4e94bc78-d7bb-46f2-a5f8-d866ddcbfdc1",
+          "name": "tabungan",
+          "required": false,
+          "dataType": "@tabungan",
+          "value": "$tabungan",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🟢"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🧾Persyaratan Pendaftaran Haji🧾\n-----------------------------------------------------------------------------------------\na) Beragama Islam\nb) Berusia paling rendah 12 (dua belas) tahun pada saat mendaftar\nc) Memiliki kartu identitas yang sesuai dengan domisili (KTP)\nd) Memiliki kartu keluarga (KK)\ne) Memiliki akta kelahiran atau surat kenal lahir atau kutipan akta nikah atau ijazah\nf) Memiliki tabungan atas nama calon jemaah yang bersangkutan pada Bank Penerima Setoran Biaya Penyelenggaraan Ibadah Haji (BPS BPIH)\ng)Pas photo terbaru ukuran 3x4 sebanyak 20 lembar dengan latar belakang putih dan tampak muka 70% – 80%;"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Klik tombol kembali untuk ke menu utama",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "daftar haji",
+              "text": "↩️ Kembali"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🔴"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

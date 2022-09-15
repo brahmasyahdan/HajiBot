@@ -1,0 +1,9 @@
+{
+  "id": "8adf03b1-9797-4e29-bcf7-e6ccbe0ca90a",
+  "name": "makan",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

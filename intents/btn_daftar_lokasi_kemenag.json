@@ -1,0 +1,116 @@
+{
+  "id": "442e3e58-fc59-4493-a6ea-4d986136f1b8",
+  "name": "btn_daftar_lokasi_kemenag",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "01388bac-e7fa-4529-9cd0-e45bd0a5103d",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4c122e19-a13b-4cd5-94d2-1c526b6f152d",
+          "name": "daftar",
+          "required": false,
+          "dataType": "@daftar",
+          "value": "$daftar",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🟢"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Tempat pendaftaran haji dilakukan di kantor KEMENAG\nUntuk mengetahui lokasi  KEMENAG terdekat dengan anda silahkan klik menu di bawah ini :"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "❗️Aktifkan dulu fitur lokasi di perangkat anda",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "https://www.google.co.id/maps/search/kemenag+terdekat/@-1.8141484,117.8516324,4z/data\u003d!3m1!4b1",
+              "text": "🗺 Lokasi KEMENAG"
+            },
+            {
+              "postback": "home",
+              "text": "↩️ Kembali"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🔴"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": "33a96a11-cceb-4975-98c6-520b491b8a17",
+  "name": "q13.perbedaan_haji_regular\u0026haji_khusus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Haji regular adalah penyelenggaraan ibadah haji yang dilaksanakan langsung oleh Pemerintah dengan pengelolaan, pembiayaan, dan pelayanan standar.\nHaji khusus adalah penyelenggaraan ibadah haji yang dilaksanakan oleh swasta (PIHK) dengan pengelolaan, pembiayaan, dan pelayanan yang bersifat khusus."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

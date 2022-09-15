@@ -1,0 +1,126 @@
+{
+  "id": "f6ff6816-5b4f-41c5-aa2d-a3432146a97f",
+  "name": "btn_daftar_alur_pendaftaran",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a0cd1a8d-5df5-4a4d-9419-c5f207c87600",
+          "name": "alur",
+          "required": false,
+          "dataType": "@alur",
+          "value": "$alur",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "70a6a75f-9abc-4f54-a7d8-818535aac10c",
+          "name": "daftar",
+          "required": false,
+          "dataType": "@daftar",
+          "value": "$daftar",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e3b1922b-ac94-4079-8b2a-a9b9ccc8ad74",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🟢"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🧾Alur Pendaftaran Haji🧾\n-----------------------------------------------------------------------------------------\na) Calon jemaah Haji membuka tabungan Haji di Bank Penerima Setoran Biaya Penyelenggaraan Ibadah Haji (BPS BPIH) yang ada di KanKemenag yang lokasinya sesuai domisili KTP, dengan syarat membawa KTP dan setoran awal sebesar 25 juta rupiah atau sebesar jumlah minimal yang ditetapkan oleh Bank tersebut. Jika jemaah haji masuk kategori haji khusus/plus maka\nCalon jamaah haji datang ke Penyelenggara Ibadah Haji Khusus (PIHK) yang berijin resmi dengan membawa persyaratan yang sama\n\nb) Calon jemaah Haji menandatangani surat pernyataan memenuhi persyaratan pendaftaran Haji yang diterbitkan oleh Kementerian Agama RI.\n\nc) Calon jemaah Haji melakukan transfer ke rekening Menteri Agama sebesar setoran awal BPIH di area cabang BPS BPIH yang sesuai dengan Domisili KTP.\nBPS BPIH menerbitkan lembar bukti setoran awal yang berisi Nomor Validasi.\nDokumen bukti setoran awal BPIH ditempel pas foto calon jemaah Haji ukuran 3x4cm dan bermaterai.\n\nd) Calon jemaah Haji mengisi formulir pendaftaran Haji berupa Surat Pendaftaran Pergi Haji (SPPH) dan menyerahkannya ke petugas Kantor Kementerian Agama Kabupaten/Kota yang sesuai dengan domisili KTP.\n\ne) Calon jemaah Haji menerima lembar bukti pendaftaran haji yang berisi Nomor Porsi pendaftaran, ditandatangani, dan dibubuhi stempel dinas oleh petugas Kantor Kementerian Agama Kabupaten/Kota.\n\nf) Kantor Kementerian Agama Kabupaten/Kota menerbitkan bukti cetak SPPH sebanyak 5 lembar yang setiap lembarnya dicetak/ditempel pas foto calon jemaah Haji ukuran 3x4cm."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Klik tombol kembali untuk ke menu sebelumnya",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "daftar haji",
+              "text": "↩️ Kembali"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🔴"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

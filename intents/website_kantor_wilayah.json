@@ -1,0 +1,43 @@
+{
+  "id": "20c01521-6388-42a0-a733-558f08dc97c9",
+  "name": "website_kantor_wilayah",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🌐 Daftar Website Kemenag\n---------------------------------------------------------\n\n1. Kanwil Kemenag Provinsi D.I Aceh\nhttp://aceh.kemenag.go.id/\n\n2. Kanwil Kemenag Provinsi Sumatera Utara\nhttps://sumut.kemenag.go.id/\n\n3. Kanwil Kemenag Provinsi Sumatera Barat\nhttps://sumbar.kemenag.go.id/\n\n4. Kanwil Kemenag Provinsi Jambi\nhttps://jambi.kemenag.go.id/\n\n5. Kanwil Kemenag Provinsi Riau\nhttps://riau.kemenag.go.id/\n\n6. Kanwil Kemenag Provinsi Kepualauan Riau\nhttp://kepri.kemenag.go.id/\n\n7. Kanwil Kemenag Provinsi Sumatera Selatan\nhttp://sumsel.kemenag.go.id/\n\n8. Kanwil Kemenag Provinsi Bengkulu\nhttps://bengkulu.kemenag.go.id/\n\n9. Kanwil Kemenag Provinsi Bangka Belitung\nhttps://babel.kemenag.go.id/\n\n10. Kanwil Kemenag Provinsi Lampung\nhttps://lampung.kemenag.go.id/\n\n11. Kanwil Kemenag Provinsi Banten\nhttps://banten.kemenag.go.id/\n\n12. Kanwil Kemenag Provinsi DKI Jakarta\nhttp://dki.kemenag.go.id/\n\n13. Kanwil Kemenag Provinsi Jawa Barat\nhttp://jabar.kemenag.go.id/\n\n14. Kanwil Kemenag Provinsi Jawa Tengah\nhttp://jateng.kemenag.go.id/\n\n15. Kanwil Kemenag Provinsi Yogyakarta\nhttp://yogyakarta.kemenag.go.id/\n\n16. Kanwil Kemenag Provinsi Jawa Timur\nhttp://jatim.kemenag.go.id/\n\n17. Kanwil Kemenag Provinsi Bali\nhttp://bali.kemenag.go.id/\n\n18. Kanwil Kemenag Provinsi Nusa Tenggara Barat\nhttp://ntb.kemenag.go.id/\n\n19. Kanwil Kemenag Provinsi Kalimantan Barat\nhttp://kalbar.kemenag.go.id/\n\n20. Kanwil Kemenag Provinsi Kalimantan Tengah\nhttp://kalteng.kemenag.go.id/\n\n21. Kanwil Kemenag Provinsi Kalimantan Selatan\nhttp://kalsel.kemenag.go.id/\n\n22. Kanwil Kemenag Provinsi Kalimantan Timur\nhttp://kaltim.kemenag.go.id/\n\n23. Kanwil Kemenag Provinsi Gorontalo\nhttp://gorontalo.kemenag.go.id/\n\n24.. Kanwil Kemenag Provinsi Sulawesi Utara\nhttp://sulut.kemenag.go.id/\n\n25. Kanwil Kemenag Provinsi Sulawesi Tengah\nhttp://sulteng.kemenag.go.id/\n\n26. Kanwil Kemenag Provinsi Sulawesi Tenggara\nhttp://sultra.kemenag.go.id/\n\n27. Kanwil Kemenag Provinsi Sulawesi Selatan\nhttp://sulsel.kemenag.go.id/\n\n28. Kanwil Kemenag Provinsi Sulawesi Barat\nhttp://sulbar.kemenag.go.id/\n\n29. Kanwil Kemenag Provinsi Maluku\nhttp://maluku.kemenag.go.id/\n\n30. Kanwil Kemenag Provinsi Maluku Utara\nhttp://malut.kemenag.go.id/\n\n31. Kanwil Kemenag Provinsi Papua\nhttp://papua.kemenag.go.id/\n\n32. Kanwil Kemenag Provinsi Papua Barat\nhttp://papuabarat.kemenag.go.id/"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

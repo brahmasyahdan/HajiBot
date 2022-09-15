@@ -1,0 +1,46 @@
+{
+  "id": "fcdfbac6-c47b-4f39-9e06-a7f258d169fe",
+  "name": "q6.haji",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Haji adalah ziarah Islam tahunan ke Mekkah, kota suci umat Islam, dan kewajiban wajib bagi umat Islam yang harus dilakukan setidaknya sekali seumur hidup mereka oleh semua orang Muslim dewasa yang secara fisik dan finansial mampu melakukan perjalanan, dan dapat mendukung keluarga mereka selama ketidakhadiran mereka"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,94 @@
+{
+  "id": "d306f7d7-9a48-46c5-ab79-c81599b9bb3b",
+  "name": "btn_pelimpahan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🟢"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🧾Persyaratan Pelimpahan Nomor Porsi (Menukar / Mengganti)🧾\n-----------------------------------------------------------------------------------------\n\n\n⏩ Jika Jamaah Haji Meninggal Dunia:\n\n1.) Fotokopi Akta Kematian dari Dinas Kependudukan dan Catatan Sipil setempat.\n\n2.) Asli bukti setoran awal dan / atau setoran lunas BPIH (Biaya Penyelenggaraan Ibadah Haji).\n\n3). Asli surat kuasa penunjukan pelimpahan nomor porsi Jemaah haji meninggal dunia yang ditandatangani oleh suami, istri, ayah, ibu, anak kandung, atau saudara kandung yang diketahui oleh RT, RW, dan Lurah / Kepala Desa sebagaimana format terlampir.\n\n4.) Asli surat keterangan tanggung jawab mutlak yang ditandatangani oleh Jemaah haji penerima pelimpahan sebagaimana format terlampir.\nFotokopi Ktp, Kartu Keluarga, Akte Kelahiran / Surat Kenal Lahir, Fotokopi Akta Nikah, atau bukti lain Jemaah penerima pelimpahan nomor porsi dengan menunjukkan aslinya.\n\n❇️❇️❇️❇️❇️❇️❇️❇️❇️❇️❇️❇️❇️❇️❇️❇️\n\n⏩ Jika Jamaah Haji Sakit Permanen:\n\n1). Asli surat keterangan sakit dari rumah sakit pemerintah dengan kategori sakit sesuai peraturan Kategori Sakit Permanen dalam Penyelenggaraan Ibadah Haji.\n\n2). Asli bukti setoran awal dan / atau setoran lunas BPIH (Biaya Penyelenggaraan Ibadah Haji).\n\n3). Asli surat kuasa penunjukan pelimpahan nomor porsi Jemaah haji meninggal dunia yang ditandatangani oleh suami, istri, ayah, ibu, anak kandung, atau saudara kandung yang diketahui oleh RT, RW, dan Lurah / Kepala Desa sebagaimana format terlampir\n\n4). Asli surat keterangan tanggung jawab mutlak yang ditandatangani oleh Jemaah haji penerima pelimpahan sebagaimana format terlampir.\nFotokopi Ktp, Kartu Keluarga, Akte Kelahiran / Surat Kenal Lahir, Fotokopi Akta Nikah, atau bukti lain dari Jamaah penerima pelimpahan nomor porsi dengan menunjukkan aslinya.\n\n5).Persyaratan Tambahan Pelimpahan Nomor Porsi Haji Reguler\nPenerima pelimpahan nomor porsi membuka rekening tabungan Jemaah haji di bank yang sama dengan Jemaah haji yang meninggal dunia atau sakit permanen.\n\n6). Penerima pelimpahan nomor porsi Jemaah haji meninggal dunia atau sakit permanen telah berusia minimal 12 (dua belas) tahun pada saat pengajuan pelimpahan. Adapun persyaratan keberangkatan haji berusia paling rendah 18 tahun atau sudah menikah."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🧾Prosedur Pelimpahan Nomor Porsi (Menukar / Mengganti)🧾\n-----------------------------------------------------------------------------------------\n\n\n1). Penerima pelimpahan nomor porsi harus mengajukan surat permohonan dengan melampirkan persyaratan ke Kantor Kementerian Agama Kabupaten / Kota domisili tempat mendaftar jamaah haji meninggal dunia atau sakit permanen\n\n2). Petugas Kantor Kementerian Agama Kabupaten / Kota melakukan verifikasi berkas, jika berkas lengkap dan memenuhi syarat dibuatkan Surat Rekomendasi Ke Kantor Wilayah Kementerian Agama Provinsi\n\n3). Penerima pelimpahan nomor porsi wajib datang ke kantor Wilayah Kementerian Agama Provinsi untuk melakukan pengisian formulir SPPH (Surat Pendaftaran Pergi Haji), dan melakukan pengambilan foto dan perekaman sidik jari."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Kik tombol di bawah ini untuk ke menu sebelumnya",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "btn_batal",
+              "text": "↪️ Kembali"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🔴"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

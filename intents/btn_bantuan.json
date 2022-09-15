@@ -1,0 +1,80 @@
+{
+  "id": "6a6ce72b-a40b-4e97-a6ed-bf65cd25210d",
+  "name": "btn_bantuan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🟢"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Bot ini adalah sebuah inovasi dalam bidang informasi yang membantu untuk memudahkan jamaah haji memperoleh informasi\nKetik  \"/start\" untuk memulai bot atau klik tanda \"/\" pada keyboard\n\nJika informasi yang anda inginkan tidak ada di menu, pilih lainnya atau silahkan ketik saja informasi yang anda inginkan\n\nJika tidak menemukan jawaban dari pertanyaan anda silahkan chat admin di tautan ini \"https://t.me/shabir04\"\nAtau email ke alamat di bawah ini\n\nkhudinsholi22@gmail.com"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Klik tombol kembali untuk ke menu utama",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "home",
+              "text": "↩️ Kembali"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🔴"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

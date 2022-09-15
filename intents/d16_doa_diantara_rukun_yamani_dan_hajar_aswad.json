@@ -1,0 +1,46 @@
+{
+  "id": "3934cf4e-cd0d-4246-9aec-01f1f44a05e1",
+  "name": "d16_doa_diantara_rukun_yamani_dan_hajar_aswad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿DOA DIANTARA RUKUN YAMANI DAN HAJAR ASWAD📿\n-------------------------------------------------------------------- \n\n https://youtu.be/Y3VBVoBN2fk\n \n Setiap kali sampai di rukun yamani mengusapnya. kalau tidak mungkin, maka cukup mengangkat tangan sambil mengucap:\n \n بِسْمِ اللهِ اَللّٰهُ أَكْبَرُ.\n \n Bismillaahi walloohu akbar. Artinya: “Dengan nama Allah, Allah Maha Besar.”\n \n Doa diantara rukun yamani dan hajar aswad: \n \n رَبَّنَا اٰتِنَا فِى الدُّنْيَا حَسَنَةً وَفِى اْلآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ.\n \n Robbanaa aatinaa fiddun-yaa hasanah, wafil-aakhiroti hasanah, waqinaa ‘adzaaban naar.\n \n Artinya: \n \"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka.\"\n \n Dapat ditambahkan:\n \n وَأَدْخِلْنَا الْجَنَّةَ مَعَ اْلأَبْرَارِ. يَاعَزِيْزُ يَاغَفَّارُ يَارَبَّ الْعَالَمِيْنَ. \n \n Wa adkhilnal jannata ma’al abroor, Yaa ‘aziizu yaa ghoffar, yaa robbal ‘aalamiin.\n \n Artinya: \n “Dan masukkanlah kami ke dalam surga bersama orang-orang yang berbuat baik, wahai Tuhan Yang Maha Perkasa, Maha Pengampun dan Tuhan yang menguasai seluruh alam.”"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

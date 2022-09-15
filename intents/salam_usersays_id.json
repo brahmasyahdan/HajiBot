@@ -1,0 +1,67 @@
+[
+  {
+    "id": "47bf0355-a14c-44f4-9ea9-f9e4c9015bbb",
+    "data": [
+      {
+        "text": "assalamualaikum wr. wb.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "025579d1-07c8-4a6d-a299-4b0a04716437",
+    "data": [
+      {
+        "text": "assalamualaikum warahmatullahi wabarakatuh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "14019161-9b5a-4edd-a13f-340e600a4168",
+    "data": [
+      {
+        "text": "assalamualaikum warohmatullahi wabarokatuh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0f3475cc-95cf-49c9-a13f-ee8a214c1910",
+    "data": [
+      {
+        "text": "askum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2549bedf-978c-4bf4-bc55-c3ab3db76808",
+    "data": [
+      {
+        "text": "assalamualaikum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

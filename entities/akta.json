@@ -1,0 +1,9 @@
+{
+  "id": "e401879e-21e2-4199-b841-016893555938",
+  "name": "akta",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

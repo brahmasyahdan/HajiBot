@@ -1,0 +1,110 @@
+[
+  {
+    "id": "9fa1c052-98c1-498d-bcd8-70a552ffa43b",
+    "data": [
+      {
+        "text": "Pengertian dari ",
+        "userDefined": false
+      },
+      {
+        "text": "jamaah",
+        "meta": "@jamaah",
+        "alias": "jamaah",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": " adalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "14fac35b-4663-4d06-b50a-e5cb9baa6510",
+    "data": [
+      {
+        "text": "apa yang dimaksud dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "jemaah",
+        "meta": "@jamaah",
+        "alias": "jamaah",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e30a2ee9-40e7-48dc-b12f-4a1019205c8d",
+    "data": [
+      {
+        "text": "apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "jemaah",
+        "meta": "@jamaah",
+        "alias": "jamaah",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1b3f4ae3-eb26-4652-aabe-abf2e838efea",
+    "data": [
+      {
+        "text": "Apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "jamaah",
+        "meta": "@jamaah",
+        "alias": "jamaah",
+        "userDefined": true
+      },
+      {
+        "text": " haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

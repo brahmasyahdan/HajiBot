@@ -1,0 +1,46 @@
+{
+  "id": "0282b9b8-3cee-49d6-aa42-2ac2e7868a1b",
+  "name": "d10_doa_sesudah_shalawat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿DOA SESUDAH SHALAWAT📿\n ------------------------------------------------------------------------------\n \n https://youtu.be/Jvt_fDNmmbk\n \n اَللّٰهُمَّ اِنَّا نَسْأَلُكَ رِضَاكَ وَالْجَنَّةَ وَنَعُوْذُ بِكَ مِنْ سَخَطِكَ وَالنَّارِ، رَبَّنَا آتِنَا فِى الدُّنْيَا حَسَنَةً وَفِى اْلآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ .\n \n Allaahumma innaa nas-aluka ridhaaka wal-jannata wana’uudzu bika min sakhathika wan-naari, rabbanaa aatinaa fid-dunyaa hasanatan wafil-aakhirati hasanatan waqinaa ‘adzaaban naar.\n \n Artinya: “Ya Allah, sesungguhnya kami memohon keridhaan-Mu dan surga, kami berlindung pada-Mu dari kemurkaan-Mu dan siksa neraka. Wahai Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan hindarkanlah kami dari siksa neraka.”"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

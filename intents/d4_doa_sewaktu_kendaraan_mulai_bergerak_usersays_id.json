@@ -1,0 +1,36 @@
+[
+  {
+    "id": "a8bbdbd0-5c77-4466-ad9e-de086d4e72ca",
+    "data": [
+      {
+        "text": "doa sewaktu ",
+        "userDefined": false
+      },
+      {
+        "text": "kendaraan",
+        "userDefined": false
+      },
+      {
+        "text": " mulai bergerak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2133bd3d-53de-4688-bd3b-262cffe00f54",
+    "data": [
+      {
+        "text": "d4",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

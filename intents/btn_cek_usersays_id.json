@@ -1,0 +1,127 @@
+[
+  {
+    "id": "4ee60f5e-2c49-4e85-acc5-dd9ed36f7c27",
+    "data": [
+      {
+        "text": "berangkat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "094f867c-e00b-4da2-8f89-0c128cd87f28",
+    "data": [
+      {
+        "text": "btn_cek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1dbdb8e6-f6f2-4003-928b-c8a8d375983d",
+    "data": [
+      {
+        "text": "perkiraan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8aaf90d1-0e84-44d6-8932-a503f6fd95a1",
+    "data": [
+      {
+        "text": "pandemi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "058dd51c-f094-48f6-a688-2fad908957d6",
+    "data": [
+      {
+        "text": "cek status ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": " pandemi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "df7df4e6-6967-4836-ab0e-b58cee7b5673",
+    "data": [
+      {
+        "text": "cek porsi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "362785fe-47bc-4e0f-b00b-5b587db93726",
+    "data": [
+      {
+        "text": "jadwal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c51e2f8d-fce7-4af8-bc97-d594ae59f8f8",
+    "data": [
+      {
+        "text": "keberangkatan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f32aa3cf-932d-4d7e-afb1-4ba9d4c58b80",
+    "data": [
+      {
+        "text": "cek status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

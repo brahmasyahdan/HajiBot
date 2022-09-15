@@ -1,0 +1,121 @@
+{
+  "id": "9f198473-be8b-41c2-8c94-3311dda67a5c",
+  "name": "btn_batal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🟢"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🧾Pembatalan Haji🧾\n-----------------------------------------------------------------------------------------\n\nPembatalan pendaftaran jemaah haji dilakukan oleh jemaah haji di KanKemenag Kota asal dengan membawa persyaratan"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Untuk kategori pembatalan silahkan pilih menu di bawah ini :",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "btn_pribadi",
+              "text": "▶️ Pribadi"
+            },
+            {
+              "postback": "btn_wafat",
+              "text": "▶️ Wafat"
+            },
+            {
+              "postback": "btn_tarik",
+              "text": "▶️ Tarik Dana"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "👳🏻‍♂️----------------------------------------------------------------------------🧕🏻",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "btn_pelimpahan",
+              "text": "▶️ Pelimpahan"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Klik tombol di bawah ini untuk ke menu sebelumnya",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "menu",
+              "text": "↪️ Kembali"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🔴"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

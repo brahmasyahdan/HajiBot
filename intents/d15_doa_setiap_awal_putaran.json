@@ -1,0 +1,46 @@
+{
+  "id": "98997400-eb97-4c9f-8f63-ee54ca691c0f",
+  "name": "d15_doa_setiap_awal_putaran",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿DOA SETIAP AWAL PUTARAN SAAT THOWAF📿\n--------------------------------------------------------------------------\n \n https://youtu.be/0l8ugRM-by4\n \n بِسْمِ اللهِ اَللّٰهُ أَكْبَرُ\n Bismillaahi allaahu akbar.\n \n Artinya: “Dengan nama Allah, Allah Maha Besar.”"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

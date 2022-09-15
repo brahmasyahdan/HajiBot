@@ -1,0 +1,32 @@
+[
+  {
+    "id": "3f09cdd1-b909-4ad9-be85-cdad6af684bc",
+    "data": [
+      {
+        "text": "doa ketika melihat ",
+        "userDefined": false
+      },
+      {
+        "text": "ka\u0027bah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "98012697-e024-4307-8ae4-aa00c7384925",
+    "data": [
+      {
+        "text": "d13",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

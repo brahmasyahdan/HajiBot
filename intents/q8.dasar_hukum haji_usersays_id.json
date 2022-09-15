@@ -1,0 +1,74 @@
+[
+  {
+    "id": "95e9b3a6-59fb-48de-83a3-f6c205efad55",
+    "data": [
+      {
+        "text": "Peraturan penyelenggaraan ibadah haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8ad68033-cfd6-44dd-a9a2-218148daa5a5",
+    "data": [
+      {
+        "text": "Dasar hukum ibadah ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": " adalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "05813589-def8-4d99-8b97-ec2c47fc38bd",
+    "data": [
+      {
+        "text": "Dasar hukum penyelenggaraan ibadah ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": " adalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e066a4bf-17b5-4ac2-a2fc-fba02ad51582",
+    "data": [
+      {
+        "text": "Apakah dasar hukum penyelenggaraan ibadah ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

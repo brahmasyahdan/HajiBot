@@ -1,0 +1,46 @@
+{
+  "id": "48c1d9a2-3522-44be-8967-ba552e0b0880",
+  "name": "d7_doa_sesudah_selesai_berihram",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿DOA SESUDAH SELESAI BERIHRAM📿\n--------------------------------------------------------------------------------\n \n https://www.youtube.com/watch?v\u003dfPe1b4t40Yo\n \n اَللّٰهُمَّ اُحَرِّمُ شَعْرِيْ وَبَشَرِيْ وَجَسَدِيْ وَجَمِيْعَ جَوَارِحِيْ مِنْ كُلِّ شَيْئٍ حَرَّمْتَهُ عَلَى الْمُحْرِمِ اَبْتَغِيْ بِذَالِكَ وَجْهَكَ الْكَرِيْمَ يَا رَبَّ الْعَالَمِيْنَ.\n \n Allaahumma uharrimu sya’rii wabasyarii wajasadii wajamii’a jawaarihii min kulli syai-in harramtahu ‘alal muhrimi abtaghii bidzaalika wajhakal kariima yaa rabbal ‘aalamiin.\n \n Artinya: “Ya Allah kami haramkan rambut, kulit, tubuh dan seluruh anggota tubuhku dari semua yang Kau haramkan bagi seorang yang sedang berihram, demi mengharapkan diri-Mu semata, wahai Tuhan pemelihara alam semesta.”"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

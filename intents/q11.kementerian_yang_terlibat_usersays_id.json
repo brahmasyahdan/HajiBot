@@ -1,0 +1,93 @@
+[
+  {
+    "id": "0de53310-a121-41ec-bc25-1d3005f9fdde",
+    "data": [
+      {
+        "text": "Kementerian",
+        "userDefined": false
+      },
+      {
+        "text": " yang ada dalam Penyelenggaraan Ibadah ",
+        "userDefined": false
+      },
+      {
+        "text": "Haji",
+        "userDefined": false
+      },
+      {
+        "text": " kecuali ",
+        "userDefined": false
+      },
+      {
+        "text": "Kementerian Agama",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9857d85c-6374-4f8f-b556-45918454e5d6",
+    "data": [
+      {
+        "text": "Kementerian",
+        "userDefined": false
+      },
+      {
+        "text": " apa saja yang terlibat dalam proses Penyelenggaraan Ibadah ",
+        "userDefined": false
+      },
+      {
+        "text": "Haji",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "23aaedf6-66dd-4232-8a00-da5457c37d27",
+    "data": [
+      {
+        "text": "Kementerian",
+        "userDefined": false
+      },
+      {
+        "text": " manakah yang terlibat dalam Penyelenggaraan Ibadah ",
+        "userDefined": false
+      },
+      {
+        "text": "Haji",
+        "userDefined": false
+      },
+      {
+        "text": " selain ",
+        "userDefined": false
+      },
+      {
+        "text": "Kementerian Agama",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

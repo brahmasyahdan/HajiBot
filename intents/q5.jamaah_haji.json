@@ -1,0 +1,61 @@
+{
+  "id": "deab8796-0612-42e7-86d1-04309c35ad30",
+  "name": "q5.jamaah_haji",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "07d3a2b9-0689-4c7b-91c9-c991f7133bfe",
+          "name": "jamaah",
+          "required": false,
+          "dataType": "@jamaah",
+          "value": "$jamaah",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Jemaah Haji adalah Warga Negara Indonesia yang beragama Islam dan telah mendaftarkan diri untuk menunaikan Ibadah Haji sesuai dengan persyaratan yang ditetapkan."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

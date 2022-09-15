@@ -1,0 +1,9 @@
+{
+  "id": "57d57e5b-8edd-482a-a350-d7defd2774bf",
+  "name": "tabungan",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

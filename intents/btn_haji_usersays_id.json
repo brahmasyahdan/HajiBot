@@ -1,0 +1,140 @@
+[
+  {
+    "id": "e52c4f6e-20ab-4fda-a8b9-71070e19ff43",
+    "data": [
+      {
+        "text": "maksud dari ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": " adalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9a88ac60-75eb-4026-bd31-ab9ba8d1bddc",
+    "data": [
+      {
+        "text": "pengertian dari ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0b94945a-4ef9-467c-a373-e192207aee66",
+    "data": [
+      {
+        "text": "Devinisi ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7c63acce-f430-47be-b077-b052b1d00f17",
+    "data": [
+      {
+        "text": "btn_haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "632964a9-d1c3-4ad2-b7dc-b1d5650375e5",
+    "data": [
+      {
+        "text": "haji",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a6444fbf-584a-499e-b9b2-5817d804775b",
+    "data": [
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ialah",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4b2c47f5-e480-44e6-98d7-d89fab6a2ba0",
+    "data": [
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": " adalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "64053f8e-90e4-492d-88d2-0abc5b7fa89e",
+    "data": [
+      {
+        "text": "apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

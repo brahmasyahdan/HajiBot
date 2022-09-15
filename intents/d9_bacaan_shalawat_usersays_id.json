@@ -1,0 +1,28 @@
+[
+  {
+    "id": "4fb4c144-ca4b-4588-a6f2-6c02140e4cb5",
+    "data": [
+      {
+        "text": "bacaan shalawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d01f40a3-7ecc-4c89-8d37-a42539f186ae",
+    "data": [
+      {
+        "text": "d9",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

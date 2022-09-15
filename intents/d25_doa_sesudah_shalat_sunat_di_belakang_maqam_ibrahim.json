@@ -1,0 +1,46 @@
+{
+  "id": "dae2e58b-012e-44ad-a110-ed5b517f6530",
+  "name": "d25_doa_sesudah_shalat_sunat_di_belakang_maqam_ibrahim",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿DOA SESUDAH SHALAT SUNAT DI BELAKANG MAQAM IBRAHIM📿\n--------------------------------------------------------------------\n \n https://youtu.be/Dn3brkq3Ap4\n \n اَللّٰهُمَّ إِنَّكَ تَعْلَمُ أَسْرَارَنَا وَ عَلاَنِياَتِنَا فَاقْبَلْ مَعْذِرَاتِنَا وَ تَعْلَمُ حَاجَاتِنَا فَاعْطِنَا أَسْئِلَتَنَا وَ تَعْلَمُ مَا فِيْ أَنْفُسِنَا فَاغْفِرْلَنَا ذُنُوْبَنَا. اَللّٰهُمَّ إِنَّا نَسْأَلُكَ إِيْمَانًا دَائِمًا يُبَاشِرُ قُلُوْبَنَا وَ يَقِيْنًا صَادِقًا حَتَّى نَعْلَمَ أَنَّهُ لاَ يُصِيْبُنَا إِلاَّ مَا كَتَبْتَ لَنَا وَ رَضِّنَا بِمَا قَسَمْتَهُ لَنَا يَا أَرْحَمَ الرَّاحِمِيْنَ. أَنْتَ وَلِيُّنَا فِى الدُّنْيَا وَ اْلآخِرَةِ تَوَفَّنَا مُسْلِمِيْنَ وَ أَلْحِقْنَا بِالصَّالِحِيْنَ. اَللّٰهُمَّ لاَ تَدَعْ لَنَا فِيْ مَقَامِنَا هَذَا ذَنْبًا إِلاَّ غَفَرْتَهُ وَ لاَ هَمًّا إِلاَّ فَرَّجْتَهُ وَ لاَ حَاجَةً إِلاَّ قَضَيْتَهَا وَ يَسَّرْتَهَا فَيَسِّرْ أُمُوْرَنَا وَ اشْرَحْ صُدُوْرَنَا وَ نَوِّرْ قُلُوْبَنَا وَ اخْتِمْ بِالصَّالِحَاتِ أَعْمَالَنَا. اَللّٰهُمَّ تَوَفَّنَا مُسْلِمِيْنَ وَ أَحْيِنَا مُسْلِمِيْنَ وَ أَلْحِقْنَا بِالصَّالِحِيْنَ غَيْرَ خَزَايَا وَ لاَ مَفْتُوْنِيْنَ. \n \n Allaahumma innaka ta’lamu asrooronaa wa’alaaniyaatinaa faqbal ma’dzirootinaa wata’lamu haajaatinaa fa’thinaa as-ilatanaa wata’lamu maa fii anfusinaa faghfirlanaa dzunuubanaa. Allaahumma innaa nas-aluka iimaanan daa-iman yubaasyiru quluubanaa wayaqiinan shaadiqan hattaa na’lama annahu laa yushiibunaa illaa maa katabta lanaa waradhdhinaa bimaa qasamtahu lanaa yaa arhamar raahimiin. Anta waliyyunaa fid-dunyaa wal-aakhirati tawaffanaa muslimiin wa-alhiqnaa bish-shaalihiina. Allaahumma laa tada’ lanaa fii maqaaminaa haadzaa dzanban illaa ghafartahu walaa hamman illaa farrajtahu walaa haajatan illaa qadhaitahaa wayassartahaa fayassir umuuranaa wasyrah shuduuranaa wanawwir quluubanaa wakhtim bish-shaalihaati a’maalanaa. Allaahumma tawaffanaa muslimiina wa-ahyinaa muslimiina wa-alhiqnaa bish-shaalihiina ghaira khazaayaa walaa maftuuniin.\n \n Artinya: “Ya Allah, sesungguhnya Engkau maha Mengetahui rahasia-rahasia kami yang tersembunyi dan amal perbuatan kami yang nyata, maka terimalah ratapan kami. Engkau Maha Mengetahui keperluan-keperluan kami, kabulkanlah permohonan-permohonan kami. Engkau Maha mengetahui apapun yang terkandung dalam hati kami, maka ampunilah dosa-dosa kami. Ya Allah, kami ini mohon pada-Mu iman yang tetap yang melekat terus di hati, keyakinan yang sungguh-sungguh sehingga kami dapat mengetahui bahwa tiada suatu yang menimpa kami selain dari yang Engkau tetapkan bagi kami. Jadikanlah kami rela terhadap apapun yang Engkau bagikan pada kami. Wahai Tuhan yang Maha pengasih dari segala yang pengasih. Engkau adalah pelindung kami di dunia dan di akhirat. Wafatkanlah kami dalam keadaan muslim dan gabungkanlah kami ke dalam orang-orang yang saleh. Ya Allah, janganlah Engkau biarkan di tempat kami ini suatu dosa pun kecuali Engkau ampunkan, tiada suatu kesusahan hati, kecuali Engkau lapangkan, tiada suatu hajat keperluan kecuali Engkau penuhi dan mudahkan, maka mudahkanlah segenar urusan kami dan lapangkanlah dada kami, terangilah hati kami dan sudahilah semua amal perbuatan kami dengan amal yang shaleh. Ya Allah, matikanlah kami dalam keadaan muslim, hidupkanlah kami dalam keadaan muslim, dan masukkanlah kami ke dalam golongan orang-orang yang shaleh tanpa kenistaan dan fitnah.”"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

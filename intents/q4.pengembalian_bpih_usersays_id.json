@@ -1,0 +1,228 @@
+[
+  {
+    "id": "0a766ec4-59e9-4812-b635-b1423e2ef111",
+    "data": [
+      {
+        "text": "Tarik  ",
+        "userDefined": false
+      },
+      {
+        "text": "ongkos",
+        "meta": "@harga",
+        "alias": "harga",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "13b8babe-84f5-4900-809a-7a32616145fa",
+    "data": [
+      {
+        "text": "Apakah bisa  melakukan penarikan Biaya Penyelenggaraan Ibadah ",
+        "userDefined": false
+      },
+      {
+        "text": "Haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0ca4ec20-c5e3-479c-bbac-c4c5f22dca8b",
+    "data": [
+      {
+        "text": "Penarikan biaya pendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d1c71c76-dfbb-42f6-b427-c278f48f6c30",
+    "data": [
+      {
+        "text": "Apa bisa melakukan penarikan ",
+        "userDefined": false
+      },
+      {
+        "text": "ongkos",
+        "meta": "@harga",
+        "alias": "harga",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7d150231-06a4-432b-b398-9c0515317964",
+    "data": [
+      {
+        "text": "Apa yang harus saya lakukan jika ingin ",
+        "userDefined": false
+      },
+      {
+        "text": "ongkos",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": " kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "81547e94-a977-4864-bb27-2119dd30008c",
+    "data": [
+      {
+        "text": "Ketika jamaah membatalkan haji ",
+        "userDefined": false
+      },
+      {
+        "text": "apakah bisa",
+        "userDefined": true
+      },
+      {
+        "text": " menarik kembali ",
+        "userDefined": false
+      },
+      {
+        "text": "uang",
+        "meta": "@harga",
+        "alias": "harga",
+        "userDefined": true
+      },
+      {
+        "text": " pendaftaran?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "378dcb4b-aa05-4350-8ef1-4ee72270b941",
+    "data": [
+      {
+        "text": "Apakah biaya pendaftaran bisa ditarik kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c6b39167-3e4d-40ab-9c81-d16a1525a69b",
+    "data": [
+      {
+        "text": "Apakah bisa melakukan pengembalian ",
+        "userDefined": false
+      },
+      {
+        "text": "dana",
+        "meta": "@harga",
+        "alias": "harga",
+        "userDefined": true
+      },
+      {
+        "text": " kepada jamaaah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2f11ddd0-8cb3-4651-b051-d6ca7039d4a9",
+    "data": [
+      {
+        "text": "Apakah ",
+        "userDefined": false
+      },
+      {
+        "text": "dana",
+        "meta": "@harga",
+        "alias": "harga",
+        "userDefined": true
+      },
+      {
+        "text": " BPIH bisa di tarik kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "dbf0d6b8-f169-4b1b-94fc-5c7e3a9f6066",
+    "data": [
+      {
+        "text": "Bagaimana Cara Mengembalikan ",
+        "userDefined": false
+      },
+      {
+        "text": "Setoran",
+        "meta": "@harga",
+        "alias": "harga",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Haji",
+        "userDefined": false
+      },
+      {
+        "text": " Yang Telah Lunas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

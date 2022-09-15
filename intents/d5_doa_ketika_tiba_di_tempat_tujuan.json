@@ -1,0 +1,46 @@
+{
+  "id": "62ff76fa-f869-4e4e-a563-d0fd0f4ae4f6",
+  "name": "d5_doa_ketika_tiba_di_tempat_tujuan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿 DOA KETIKA TIBA DI TEMPAT TUJUAN📿 \n --------------------------------------------------------------------------------\n\n https://www.youtube.com/watch?v\u003dbIHokAPSJUk\n \n اَللّٰهُمَّ إِنَّا نَسْأَلُكَ خَيْرَهَا وَخَيْرَ اَهْلِهَا وَخَيْرَ مَا فِيْهَا وَنَعُوْذُ بِكَ مِنْ شَرِّهَا وَشَرِّ اَهْلِهَا وَشَرِّ مَا فِيْهَا.\n Allaahumma innii as-aluka khairahaa wa khaira ahlihaa wakhaira maa fiihaa wa a’uudzu bika min syarrihaa wasyarri ahlihaa wasyarri maa fiihaa.\n \n Artinya: \n “Ya Allah, saya mohon pada-Mu kebaikan negeri ini dan kebaikan penduduknya serta kebaikan yang ada di dalamnya. Dan saya berlindung pada-Mu dari kejahatan negeri ini dan kejahatan penduduknya serta kejahatan yang ada di dalamnya.”"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

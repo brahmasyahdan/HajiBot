@@ -1,0 +1,88 @@
+{
+  "id": "45f3345b-8ceb-4d2e-b83c-6792af41ebd0",
+  "name": "btn_tutorial_video",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🟢"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🎦 Kumpulan Video Tutorial Haji\nberikut ini adalah tutorial melaksanakan haji dari KEMENENAG RI\n---------------------------------------------------------------------------------------------\n\n📽 Pengantar Haji \u003dhttps://youtu.be/iAM4K1Ch4-s\n\n📽 Pengertian Haji-2  \u003dhttps://youtu.be/4gl91_6uFMk\n\n📽 Syarat Haji  \u003dhttps://youtu.be/OFyNg9edit4\n\n📽 Rukun Haji  \u003dhttps://youtu.be/dYKstMQiKW0\n\n📽 Wajib Haji  \u003dhttps://youtu.be/L1eJ_SZQOT4\n\n📽 Jenis Pelaksanaan Haji \u003dhttps://youtu.be/fbtPVHof7Co\n\n📽 Rute Perjalanan Haji \u003dhttps://youtu.be/Q8s-Xw83MKA\n\n📽 Niat Ihram \u003dhttps://youtu.be/NGnqYq16t6c\n\n📽 Pakaian Ihram \u003dhttps://youtu.be/M3X9pmg7DBY\n\n📽 Larangan Ihram \u003dhttps://youtu.be/iq-wBvjV4Ew\n\n📽 Wukuf di Arafah \u003dhttps://youtu.be/yXaoKUYeKjo\n\n📽 Mabit di Muzdalifah \u003dhttps://youtu.be/fgf_MDu4lHU\n\n📽 Lempar Jamrah \u003dhttps://youtu.be/DyUnPqmkH7g\n\n📽 Tahalul \u003dhttps://youtu.be/lMUbnckK44A\n\n📽 Mabit di Mina \u003dhttps://youtu.be/1u-BrAB8Rfg\n\n📽 Jamrah Tasyrik \u003dhttps://youtu.be/RSm8K7B5Wns\n\n📽 Nafar \u003dhttps://youtu.be/y5mF08gY4ts\n\n📽 Thawaf Ifadah \u003dhttps://youtu.be/ChUDeMXQqJo\n\n📽 Sa\u0027i \u003dhttps://youtu.be/rj3ycVE9kMQ\n\n📽 Thawaf Wada \u003dhttps://youtu.be/EF__MUAD7w4"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Klik tombol kembali untuk ke menu utama",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "home",
+              "text": "↩️ Kembali"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🔴"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

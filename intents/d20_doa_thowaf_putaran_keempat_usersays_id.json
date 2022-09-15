@@ -1,0 +1,40 @@
+[
+  {
+    "id": "c936d85a-2f26-41a6-94b0-6156416fd88a",
+    "data": [
+      {
+        "text": "doa ",
+        "userDefined": false
+      },
+      {
+        "text": "thowaf",
+        "userDefined": false
+      },
+      {
+        "text": " putaran ",
+        "userDefined": false
+      },
+      {
+        "text": "keempat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b8c24ed9-2d3f-4cde-80d5-dd831ff11aa6",
+    "data": [
+      {
+        "text": "d20",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

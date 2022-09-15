@@ -1,0 +1,83 @@
+{
+  "id": "ecd1e15e-26c6-4f87-a455-e4f08ba5ce1a",
+  "name": "btn_tarik",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🟢"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🧾Penarikan Dana Haji🧾\n-----------------------------------------------------------------------------------------\n\n\nCalon jemaah haji yang membatalkan pendaftaran hajinya, maka pengembalian setoran hajinya akan dibayarkan melalui BPS BPIH (Bank Penerima Setoran Biaya Penyelenggaraan Ibadah Haji) tempat setor semula.\nProsedur pengembalian setoran tunai BPIH sebagai berikut:\n\n1. Calon jemaah mengajukan surat permohonan pemabatal kepada Kankemenag Kab/Kota domisili, dengan melampirkan:\n\n    a. Bukti setoran lunas BPIH asli lembar pertama dan keempat\n    b. Surat Pernyataan Batal dari calon jemaah haji bermaterai Rp. 6.000\n    c. Surat kuasa bermaterai Rp.6.000,- dari calon jemaah haji yang bersangkutan, dan diketahui Lurah/Kepala Desa setempat, apabila pengambilan dikuasakan kepada orang lain\n    d. Fotocopy surat kematian dan surat keterangan ahli waris bagi yang batal karena meninggal dunia\n\n2. Kankemenag Kab/Kota memberikan tanda terima proses pembatalan kepada calon jemaah haji batal\n\n3. Kankemenag Kab/Kota membuat surat pengantar dan meneruskan kepada Kanwil Kemenag Provinsi\n\n4. Kanwil Kemenag Provinsi mengajukan pengembalian dana setoran lunas BPIH batal kepada Direktorat Jenderal PHU. Direktorat Pelayanan Haji, setelah melakukan konfirmasi batal kedalam database SISKOHAT. Konfirmasi dilakukan dengan menggunakan nomor porsi dan menginput data nomor dan tanggal surat pengajuan dari Kankemenag Kab/Kota dan sebab pembatalan\n\n5. Direktorat Pelayanan Haji membuat surat pengantar ke Direktorat Pengelolaan BPIH dan SIH setelah mengkonfirmasi pembatalan ke dalam SISKOHAT\nDirektorat Pengelolaan BPIH dan SIH mentransfer dana BPIH batal ke rekening calon jemaah haji batal melalui BPS BPIH, selanjutnya dikonfirmasi ke dalam SISKOHAT\n\n6. BPS BPIH menyampaikan dana BPIH batal kepada calon jemaah haji batal dan mengkonfirmasikannya ke dalam SISKOHAT"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Klik tombol di bawah ini untuk ke menu sebelumnya",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "btn_batal",
+              "text": "↪️ Kembali"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🔴"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

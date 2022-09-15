@@ -1,0 +1,28 @@
+[
+  {
+    "id": "002f5aa5-cac4-4a5f-9c3d-663c30d3190c",
+    "data": [
+      {
+        "text": "btn_lainnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "61376271-9d38-46f9-8371-d5601b61ddef",
+    "data": [
+      {
+        "text": "lainnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

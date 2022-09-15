@@ -1,0 +1,46 @@
+{
+  "id": "e7a3b90b-d844-47f3-9388-56ebea77a9c4",
+  "name": "d12_doa_masuk_masjidil_haram",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿DOA MASUK MASJIDIL HARAM📿\n--------------------------------------------------------------------\n \n https://youtu.be/wc6kjFDQSdc\n \n اَللّٰهُمَّ أَنْتَ السَّلاَمُ وَمِنْكَ السَّلاَمُ وَإِلَيْكَ يَعُوْدُ السَّلاَمُ فَحَيِّنَا رَبَّنَا بِالسَّلاَمِ وَأَدْخِلْنَا الْجَنَّةَ دَارَ السَّلاَمِ تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ يَا ذَا الْجَلاَلِ وَاْلإِكْرَامِ. اَللّٰهُمَّ افْتَحْ لَنَا أَبْوَابَ رَحْمَتِكَ. بِسْمِ اللهِ وَالْحَمْدُ لِلّٰهِ وَالصَّلاَةُ وَالسَّلاَمُ عَلَى رَسُوْلِ اللهِ.\n \n Allaahumma antas salaamu waminas salaamu wailaika ya’uudus salaamu fahayyinaa rabbanaa bis-salaami wa-adkhilnal jannata daaras salaami tabaarakta rabbanaa wata’aalaita yaa dzal jalaali wal-ikraami. Allaahummaftah lanaa abwaaba rahmatika. Bismillaahi walhamdu lillaahi wash-shalaatu was-salaamu ‘alaa rasuulillaahi.\n \n Artinya: “Ya Allah, Engkau sumber keselamatan dan dari pada-Mulah datangnya keselamatan dan kepada-Mu kembalinya keselamatan. Maka hidupkanlah kami wahai Tuhan, dengan selamat sejahtera dan masukkanlah kami ke dalam surga negeri keselamatan. Maha banyak anugerah-Mu dan Maha Tinggi Engkau wahai Tuhan yang memiliki keagungan dan kehormatan. Ya Allah, bukakanlah untuk kami pintu-pintu rahmat-Mu (kami masuk masjid ini) dengan nama Allah disertai dengan segala puji bagi Allah serta shalawat dan salam untuk Rasulullah.”"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

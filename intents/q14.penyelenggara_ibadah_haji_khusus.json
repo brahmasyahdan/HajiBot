@@ -1,0 +1,46 @@
+{
+  "id": "13541537-e322-445e-b96f-a5dde4ae0973",
+  "name": "q14.penyelenggara_ibadah_haji_khusus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Penyelenggaraan ibadah haji khusus dilaksanakan oleh Penyelenggara Ibadah Haji Khusus atau PIHK, yaitu biro perjalanan yang telah mendapat izin Menteri Agama untuk menyelenggarakan Ibadah Haji Khusus."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

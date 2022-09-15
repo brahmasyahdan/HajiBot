@@ -1,0 +1,46 @@
+{
+  "id": "084e42bc-3bdd-4e8f-9bc0-417a81d3b8c9",
+  "name": "q8.dasar_hukum haji",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Dasar hukum penyelenggaraan ibadah haji:\n\n1. Undang-Undang Nomor 13 Tahun 2008 tentang Penyelenggaraan Ibadah Haji\n\n2. Peraturan Pemerintah Nomor 79 Tahun 2012 Pelaksanaan Undang-Undang Nomor 13 Tahun 2008 tentang Penyelenggaran Ibadah Haji\n\n3. Peraturan Menteri Agama Nomor 14 Tahun 2012 tentang Penyelenggaraan Ibadah Haji Reguler sebagaimana telah diubah terakhir dengan Peraturan Menteri Agama Nomor 20 Tahun 2016 tentang Perubahan Kedua Atas Peraturan Menteri Agama Nomor 14 Tahun 2012 tentang Penyelenggaraan Ibadah Haji Reguler\n\n4. Peraturan Menteri Agama Nomor 23 Tahun 2016 Penyelenggaraan Ibadah Haji Khusus"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

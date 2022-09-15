@@ -1,0 +1,46 @@
+{
+  "id": "a0ab1e69-5e41-4abc-98bc-1cf066e8b3f3",
+  "name": "d11_doa_memasuki_kota_makkah",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿DOA MEMASUKI KOTA MAKKAH📿\n--------------------------------------------------------------------\n \n https://youtu.be/yb_Sxio7oCs\n\n \n اَللّٰهُمَّ هَذَا حَرَمُكَ وَاَمْنُكَ فَحَرِّمْ لُحُوْمَنَا وَدَمَنَا وَأَشْعَارَنَا وَبَشَرَتَنَا عَلَى النَّارِ وَاٰمِنَّا مِنْ عَذَابِكَ يَوْمَ تَبْعَثُ عِبَادَكَ وَاجْعَلْنَا مِنْ أَوْلِيَائِكَ وَأَهْلِ طَاعَتِكَ.\n \n Allaahumma haadzaa haramuka wa amnuka faharrim luhuumanaa wadamanaa wa asy’aaronaa wabasyarotanaa ‘alan naari wa aaminnaa min ‘adzaabika yauma tab’atsu ‘ibaadaka waj’alnaa min auliyaa-ika wa-ahli thaa’atika.\n \n Artinya: “Ya Allah, kota ini adalah tanah haram-Mu dan tempat aman-Mu, maka hindarkanlah daging, darah, rambut dan kulit kami dari neraka. Dan selamatkanlah diri kami dari siksa-Mu pada hari Engkau membangkitkan kembali hamba-Mu, dan jadikanlah kami termasuk orang-orang yang selalu dekat dan taat kepada-Mu.”"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

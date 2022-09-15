@@ -1,0 +1,126 @@
+{
+  "id": "c9e4610c-f944-4a3e-8121-d63eaab2f25c",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "🟢",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🕋 Assalamualaikum Selamat Datang HajiBot 🕋\nBot dibuat oleh ɮʀǟɦʍǟֆʏǟɦɖǟռ dan  hadir sebagai penyedia layanan informasi pendaftaran Haji. Silahkan Pilih Menu yang disediakan untuk mendapatkan informasi. Jika informasi yang anda inginkan tidak ada di menu, pilih lainnya atau silahkan ketik saja informasi yang anda inginkan\n\n❗️Pilih menu bantuan \"🆘 Bantuan\" jika tidak mengerti\n\n📢 Bagi jamaah yang batal pergi haji tahun ini 1442 Hijriah/2021 Masehi dapat mengajukan penarikan dana setoran pelunasan jamaah haji terlebih dahulu tanpa mencabut nomor porsi, untuk mengetahui prosedur dan persyaratan silahkan pilih menu Lainnya---\u003ePengembalian Dana"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Silahkan pilih menu dibawah ini :",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "btn_daftar",
+              "text": "📋 Daftar Haji"
+            },
+            {
+              "postback": "doa",
+              "text": "📿 Doa \u0026 Zikir"
+            },
+            {
+              "postback": "btn_batal",
+              "text": "🚫 Pembatalan"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "👳🏻‍♂️----------------------------------------------------------------------------🧕🏻",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "btn_tutorial",
+              "text": "🎦 Tutorial"
+            },
+            {
+              "postback": "btn_cek",
+              "text": "🗃 Cek Status"
+            },
+            {
+              "postback": "btn_lainnya",
+              "text": "🛎 Lainnya"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "👳🏻‍♂️----------------------------------------------------------------------------🧕🏻",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "bantuan",
+              "text": "🆘 Bantuan"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "🔴",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "TELEGRAM_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

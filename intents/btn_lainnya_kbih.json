@@ -1,0 +1,98 @@
+{
+  "id": "fda1c2b4-5fb5-4102-bf1e-049a50ad502c",
+  "name": "btn_lainnya_kbih",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "aec062e4-bb11-415f-a880-a884dc1437e9",
+          "name": "kbih",
+          "required": false,
+          "dataType": "@kbih",
+          "value": "$kbih",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🟢"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Kelompok Bimbingan Ibadah Haji (KBIH) adalah lembaga sosial keagamaan yang telah mendapat izin Kementerian Agama RI untuk melaksanakan tugas pembimbingan terhadap jama’ah haji dengan tujuan mewujudkan jama’ah haji yang mandiri, yaitu jama’ah yang dapat melaksanakan seluruh rangkaian ibadah hajinya secara mandiri tanpa bergantung kepada perorangan maupun kelompok.\n\n\nPPIU adalah Penyelenggara Perjalanan Ibadah Umrah atau biro perjalanan wisata yang telah mendapat ijin operasional dari Kementerian Agama RI untuk menyelenggarakan perjalanan ibadah umrah.\n\nBiasanya KBIH dan PPIU ssudah menjadi satu lembaga\n\nsilahkan klik link di bawah ini untuk pencarian\n\n\n\nhttps://simpu.kemenag.go.id/home/cari"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Klik tombol di bawah ini untuk ke menu sebelumnya",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "lainnya",
+              "text": "↩️ Kembali"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🔴"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

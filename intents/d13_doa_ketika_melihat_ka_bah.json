@@ -1,0 +1,46 @@
+{
+  "id": "a0917699-86f7-4631-a095-69d72733ec31",
+  "name": "d13_doa_ketika_melihat_ka\u0027bah",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿DOA KETIKA MELIHAT KA’BAH📿\n --------------------------------------------------------------------\n\n https://youtu.be/nx5LzK7KTpI\n \n اَللّٰهُمَّ زِدْ هَذَا الْبَيْتَ تَشْرِيْفًا وَتَعْظِيْمًا وَمَهَابَةً. وَزِدْ مَنْ شَرَّفَهُ وَعَظَّمَهُ وَكَرَّمَهُ مِمَّنْ حَجَّهُ أَوِ اعْتَمَرَهُ تَشْرِيْفًا وَتَعْظِيْمًا وَتَكْرِيْمًا وَبِرًّا.\n \n Allahumma zid haadzal baita tasyriifan wata’zhiiman wamahaabatan. Wazid man syarrafahu wa’azhzhamahu wakarramahu mimman hajjahu ami’tamarahu tasyriifan wata’zhiiman watakriiman wabirran.\n \n Artinya: “Ya Allah, tambahkanlah kemuliaan, keagungan, kehormatan dan wibawa pada Bait (Ka’bah) ini. Dan tambahkan pula pada orang-orang yang memuliakan, mengagungkan dan menghormatinya di antara mereka yang berhaji atau yang berumrah dengan kemuliaan, keagungan, kehormatan dan kebaikan.”"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

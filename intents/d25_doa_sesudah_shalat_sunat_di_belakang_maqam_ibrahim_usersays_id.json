@@ -1,0 +1,48 @@
+[
+  {
+    "id": "16d10398-c2e4-4018-9cd3-56b546c230ff",
+    "data": [
+      {
+        "text": "doa sesudah ",
+        "userDefined": false
+      },
+      {
+        "text": "shalat",
+        "userDefined": false
+      },
+      {
+        "text": " sunat di ",
+        "userDefined": false
+      },
+      {
+        "text": "belakang",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "maqam ibrahim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a846f04c-2841-404b-89e1-73721bbab87e",
+    "data": [
+      {
+        "text": "d25",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "3344dc13-a910-495f-aa0c-3e0ea2cab6fd",
+  "name": "alur",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

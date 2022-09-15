@@ -1,0 +1,32 @@
+[
+  {
+    "id": "e20c543c-723b-4e8d-a793-5bd881a4869a",
+    "data": [
+      {
+        "text": "doa ketika melintasi ",
+        "userDefined": false
+      },
+      {
+        "text": "maqam ibrahim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "afd74f2e-f13a-435c-8408-bf039478139e",
+    "data": [
+      {
+        "text": "d14",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

@@ -1,0 +1,83 @@
+{
+  "id": "a9f87c31-dcdd-4ad3-8d8f-68f3a8b83186",
+  "name": "btn_pribadi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🟢"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🧾Pembatalan Haji dengan Alasan Pribadi🧾\n-----------------------------------------------------------------------------------------\n\nPembatalan pendaftaran jemaah haji dilakukan oleh jemaah haji baik dengan alasan pribadi maupun sudah melakukan pendaftaran haji dilakukan dengan datang ke KanKemenag tempat mendaftar asal dengan membawa persyaratan sebagai berikut :\n1. Surat permohonan pembatalan bermaterai Rp 6000,- dengan menyebutkan alasan pembatalan yang ditujukan ke Kepala KanKemenag kota asal\n2. Bukti Asli Setoran awal BPIH yang dikeluarkan oleh BPS BPIH\n3. Asli aplikasi transfer setoran awal BPIH ke rekening Menteri Agama\nAsli SPPH\n4. Fotocopy buku tabungan yang masih aktif atas nama jemaah haji yang bersangkutan dan memperlihatkan aslinya\n5. Fotocopy KTP dan KK serta memperlihatkan aslinya\n6. Semua rangkap 2 (dua)"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Klik tombol di bawah ini untuk ke menu sebelumnya",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "btn_batal",
+              "text": "↪️ Kembali"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🔴"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

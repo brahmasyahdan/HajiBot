@@ -1,0 +1,71 @@
+[
+  {
+    "id": "a2403abb-6d73-4411-b99d-6276b3971f53",
+    "data": [
+      {
+        "text": "vidio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2ecff430-b778-4bbd-be16-5a60acee1b90",
+    "data": [
+      {
+        "text": "video tuntunan ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ff7fac6c-3688-44e8-810a-ed359e6e0dd9",
+    "data": [
+      {
+        "text": "tata cara",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "21204975-a9d1-420c-8f34-7bbf57a37ed5",
+    "data": [
+      {
+        "text": "video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1f669e0e-8e69-4f52-a18a-2401599063f7",
+    "data": [
+      {
+        "text": "tutorial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

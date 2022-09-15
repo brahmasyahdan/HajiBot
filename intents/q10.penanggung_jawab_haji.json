@@ -1,0 +1,46 @@
+{
+  "id": "2a7dd622-691d-4834-a264-47ad5ffa2f9f",
+  "name": "q10.penanggung_jawab_haji",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Kebijakan dan pelaksanaan dalam Penyelenggaraan Ibadah Haji merupakan tugas nasional dan menjadi tanggung jawab Pemerintah, yang dalam pelaksanaannya dikoordinasi oleh Menteri Agama."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

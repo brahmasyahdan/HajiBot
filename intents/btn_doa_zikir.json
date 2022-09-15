@@ -1,0 +1,144 @@
+{
+  "id": "dacd72eb-832e-4c51-9672-576be8b874bd",
+  "name": "btn_doa_zikir",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6d1a20f8-2268-42c2-9e74-fe50aeac0411",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🟢"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿 Doa \u0026 Zikir\n-------------------------------------------------------------------------\nTerdapat buku dan kumpulan doa-doa dari KEMENAG"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Ketikkan kode yang sudah tertera jika ingin mencari doa yang diinginkan\ncontoh \"D0\" atau \"d0\"\n--------------------------------------------------------------------------------\n\n  D0 AWALAN DOA\n  D1 DOA KELUAR RUMAH\n  D2 DOA SETELAH SHOLAT SUNNAH SEBELUM BEPERGIAN\n  D3 DOA SETELAH DUDUK DI DALAM KENDARAAN\n  D4 DOA SEWAKTU KENDARAAN MULAI BERGERAK\n  D5 DOA KETIKA TIBA DI TEMPAT TUJUAN\n  D6 NIAT HAJI ATAU UMRAH\n  D7 DOA SESUDAH SELESAI BERIHRAM\n  D8 BACAAN TALBIYAH\n  D9 BACAAN SHALAWAT\n  D10 DOA SESUDAH SHALAWAT\n  D11 DOA MEMASUKI KOTA MAKKAH\n  D12 DOA MASUK MASJIDIL HARAM\n  D13 DOA KETIKA MELIHAT KA’BAH\n  D14 DOA KETIKA MELINTASI MAQAM IBRAHIM\n  D15 DOA SETIAP AWAL PUTARAN \n  D16 DOA DIANTARA RUKUN YAMANI DAN HAJAR ASWAD\n  D17 DOA THOWAF PUTARAN PERTAMA \n  D18 DOA THOWAF PUTARAN KEDUA \n  D19 DOA THOWAF PUTARAN KETIGA \n  D20 DOA THOWAF PUTARAN KEEMPAT \n  D21 DOA THOWAF PUTARAN KELIMA \n  D22 DOA THOWAF PUTARAN KEENAM \n  D23 DOA THOWAF PUTARAN KETUJUH \n  D24 DOA SESUDAH THOWAF\n  D25 DOA SESUDAH SHALAT SUNAT DI BELAKANG MAQAM IBRAHIM"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Silahkan Pilih Buku Doa :",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "https://haji.kemenag.go.id/v4/sites/default/files/2020-04/Buku%20Tuntunan%20Manasik%20Haji.pdf",
+              "text": "📙 Buku Tuntunan Haji"
+            },
+            {
+              "postback": "https://haji.kemenag.go.id/v4/sites/default/files/2020-04/2.%20Buku%20dzikir%20dan%20doa%20mansik%20%2022%20Maret.pdf",
+              "text": "📗 Zikir Manasik"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "👳🏻‍♂️----------------------------------------------------------------------------🧕🏻",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "https://haji.kemenag.go.id/v4/sites/default/files/2020-04/3.%20Ringkasan%20Doa%20manasik%2022%20Maret.pdf",
+              "text": "📘 Ringkasan Doa manasik"
+            },
+            {
+              "postback": "https://quran.kemenag.go.id/",
+              "text": "📖 Al - Qur\u0027an"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Klik tombol kembali untuk ke menu utama",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "home",
+              "text": "↩️ Kembali"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🔴"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "831a6ec5-a18a-4420-948f-ddc7c7ab1191",
+  "name": "photo",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

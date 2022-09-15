@@ -1,0 +1,99 @@
+[
+  {
+    "id": "8a329ea1-9cbf-43f4-9608-c52f85a13637",
+    "data": [
+      {
+        "text": "Jelaskan tentang ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "180b41b4-5ac9-4fb8-8a68-bae5360d3cc5",
+    "data": [
+      {
+        "text": "Apa definisi dari ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ef0c0670-2155-4938-b864-6066ad09c40d",
+    "data": [
+      {
+        "text": "Apa yang dimaksud dengan ibadah ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7867ad15-7770-4549-bfbc-36e241185e28",
+    "data": [
+      {
+        "text": "Apakah pengertian dari ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e002c368-7e2d-43a4-a62a-762f502e1493",
+    "data": [
+      {
+        "text": "Apakah Pengertian Ibadah ",
+        "userDefined": false
+      },
+      {
+        "text": "Haji",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

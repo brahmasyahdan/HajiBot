@@ -1,0 +1,9 @@
+{
+  "id": "6b5edea0-77d5-42aa-b9ee-1c710f6d9b7b",
+  "name": "harga",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

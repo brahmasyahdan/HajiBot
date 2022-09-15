@@ -1,0 +1,234 @@
+[
+  {
+    "id": "4e84a960-137d-4ae4-bfbb-3c4ec0ce2319",
+    "data": [
+      {
+        "text": "Apakah bisa dilakukan pembatalan ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": " jika jemaah ",
+        "userDefined": false
+      },
+      {
+        "text": "wafat",
+        "meta": "@wafat",
+        "alias": "wafat",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9ba8ae23-aa67-496d-a895-e42c7a0838f9",
+    "data": [
+      {
+        "text": "Jika pendaftar haji ",
+        "userDefined": false
+      },
+      {
+        "text": "wafat",
+        "meta": "@wafat",
+        "alias": "wafat",
+        "userDefined": false
+      },
+      {
+        "text": " bisakah dilakukan pembatalan ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2f0294d3-a64a-4705-bdf1-b1a040f01da6",
+    "data": [
+      {
+        "text": "Jika jamaah haji ",
+        "userDefined": false
+      },
+      {
+        "text": "meninggal",
+        "meta": "@wafat",
+        "alias": "wafat",
+        "userDefined": true
+      },
+      {
+        "text": " apakah bisa dilakukan pembatalan pendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d9bb0995-97d7-4143-8a82-010b626aae4a",
+    "data": [
+      {
+        "text": "Apa ",
+        "userDefined": false
+      },
+      {
+        "text": "saja",
+        "userDefined": false
+      },
+      {
+        "text": " syarat membatalkan ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": " bagi jamaah yang meninggal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5ebfdb83-85a0-4e6b-a704-b5ef499f2d08",
+    "data": [
+      {
+        "text": "Apa yang terjadi jika jamaah ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": " meninggal dunia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4fbd8540-c201-4a25-a8c2-ef0758af680b",
+    "data": [
+      {
+        "text": "Bagaimana Membatalkan ",
+        "userDefined": false
+      },
+      {
+        "text": "Haji",
+        "userDefined": false
+      },
+      {
+        "text": " yang Meninggal Dunia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "53420fc5-f823-4d59-8a49-b1114351d6c0",
+    "data": [
+      {
+        "text": "Pendaftar ",
+        "userDefined": false
+      },
+      {
+        "text": "wafat",
+        "meta": "@wafat",
+        "alias": "wafat",
+        "userDefined": false
+      },
+      {
+        "text": " sebelum berangkat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "04a479d6-0263-43c4-8f91-87e3e505ffe0",
+    "data": [
+      {
+        "text": "Batal",
+        "userDefined": true
+      },
+      {
+        "text": " karena meninggal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2c8e16e9-423e-4519-993d-d785a3a0f802",
+    "data": [
+      {
+        "text": "Pendaftar ",
+        "userDefined": false
+      },
+      {
+        "text": "wafat",
+        "meta": "@wafat",
+        "alias": "wafat",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "43bc45aa-eca1-41d5-917a-913f5bf8d6e1",
+    "data": [
+      {
+        "text": "Pendaftar",
+        "userDefined": true
+      },
+      {
+        "text": " meninggal dunia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

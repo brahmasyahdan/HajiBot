@@ -1,0 +1,40 @@
+[
+  {
+    "id": "b8a0e948-d4de-4cf9-83fc-5e4ac4217882",
+    "data": [
+      {
+        "text": "doa masuk ",
+        "userDefined": false
+      },
+      {
+        "text": "masjidil",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "haram",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c9d953d3-f63f-40b1-952f-cc62c941b1a8",
+    "data": [
+      {
+        "text": "d12",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

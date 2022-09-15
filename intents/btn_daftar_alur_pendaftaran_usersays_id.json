@@ -1,0 +1,108 @@
+[
+  {
+    "id": "8925b874-feef-42a1-b785-2ef9c53d13bd",
+    "data": [
+      {
+        "text": "Bagaimana ",
+        "userDefined": false
+      },
+      {
+        "text": "alur",
+        "meta": "@alur",
+        "alias": "alur",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pendaftaran",
+        "meta": "@daftar",
+        "alias": "daftar",
+        "userDefined": false
+      },
+      {
+        "text": " dari ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e760dbad-cc3d-4e2b-9714-00207fe33e26",
+    "data": [
+      {
+        "text": "btn_daftar_alur_pendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9ae21acb-d36b-452a-a8d9-9e0c3d02cd40",
+    "data": [
+      {
+        "text": "skema",
+        "meta": "@alur",
+        "alias": "alur",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pendaftaran",
+        "meta": "@daftar",
+        "alias": "daftar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "998ad6b6-0948-48d3-8af9-ddf6bfa79899",
+    "data": [
+      {
+        "text": "alur",
+        "meta": "@alur",
+        "alias": "alur",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pendaftaran",
+        "meta": "@daftar",
+        "alias": "daftar",
+        "userDefined": true
+      },
+      {
+        "text": " haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

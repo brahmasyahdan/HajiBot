@@ -1,0 +1,9 @@
+{
+  "id": "bc23e269-b6a5-490c-9e30-ffada875ee00",
+  "name": "wafat",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

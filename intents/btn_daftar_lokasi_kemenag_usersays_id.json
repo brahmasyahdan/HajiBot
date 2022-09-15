@@ -1,0 +1,195 @@
+[
+  {
+    "id": "ff263e77-51cb-45f5-a0f3-0c2bdfdfec7a",
+    "data": [
+      {
+        "text": "dimana",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " saya bisa mendaftar sebagai jemaah haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b94d5c61-255f-4561-8e65-fc8892a75d15",
+    "data": [
+      {
+        "text": "letak",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " tempat ",
+        "userDefined": false
+      },
+      {
+        "text": "pendaftaran",
+        "meta": "@daftar",
+        "alias": "daftar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "560cb1a6-f6aa-4822-b94d-f28a14744f58",
+    "data": [
+      {
+        "text": "posisi",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pendaftaran",
+        "meta": "@daftar",
+        "alias": "daftar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e515a127-7187-47f4-849f-0e0d182b6025",
+    "data": [
+      {
+        "text": "info ",
+        "userDefined": false
+      },
+      {
+        "text": "kemenag",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9f7c9dab-3e27-49c3-87b8-eb95c56b0113",
+    "data": [
+      {
+        "text": "info ",
+        "userDefined": false
+      },
+      {
+        "text": "lokasi",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "cc26c70b-5e70-4f49-9ad7-b2d838a79ba8",
+    "data": [
+      {
+        "text": "tempat",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "daftar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7cb6912c-a5d6-47a4-a379-ddd2166c861f",
+    "data": [
+      {
+        "text": "tempat kemenag",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "affb8f10-063c-4f65-9f94-c6c42556fb29",
+    "data": [
+      {
+        "text": "tempat",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " pendaftaran haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "38fb30dd-522b-4ff9-b657-faff7d3a7f20",
+    "data": [
+      {
+        "text": "lokasi ",
+        "userDefined": false
+      },
+      {
+        "text": "kemenag",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "id": "a8c2f2ba-1ebc-40c2-b3ab-46b5ae955d8a",
+  "name": "d18_doa_thowaf_putaran_kedua",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿DOA THOWAF PUTARAN KEDUA 📿\n------------------------------------------------------------------- \n\n https://www.youtube.com/watch?v\u003dJKfVHGiPy-g\n \n Dibaca mulai dari hajar Aswad sampai Rukun Yamani:\n \n Saat lurus dengan hajar aswad menghadapkan muka ke hajar aswad, seraya mengangkat tangan kanan dan membaca:\n \n بِسْمِ اللهِ اَللّٰهُ أَكْبَرُ\n \n Bismillaahi Alloohu akbar. Artinya: “Dengan nama Allah, Allah Maha Besar.”\n  \n Kemudian mengecup tangan kanan, lalu bergerak dengan posisi Ka’bah di sebelah kiri, membaca doa berikut:\n \n اَللّٰهُمَّ إِنَّ هَذَا الْبَيْتَ بَيْتُكَ وَ الْحَرَمَ حَرَمُكَ وَ اْلأَمْنَ أَمْنُكَ وَ الْعِبَادَ عِبَادُكَ وَ نَحْنُ عِبَادُكَ وَ أَبْنَاءُ عِبَادِكَ وَ هَذَا مَقَامُ الْعَائِذِ بِكَ مِنَ النَّارِ فَحَرِّمْ لُحُوْمَنَا وَ بَشَرَتَنَا عَلَى النَّارِ. اَللّٰهُمَّ حَبِّبْ إِلَيْنَا اْلإِيْمَانَ وَ زَيِّنْهُ فِيْ قُلُوْبِنَا وَ كَرِّهْ إِلَيْنَا الْكُفْرَ وَ الْفُسُوْقَ وَ الْعِصْيَانَ وَ اجْعَلْنَا مِنَ الرَّاشِدِيْنَ. اَللّٰهُمَّ قِنَا عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ، اَللّٰهُمَّ ارْزُقْنَا الْجَنَّةَ بِغَيْرِ حِسَابٍ.\n \n Alloohumma inna haadzal baita baituka wal-haroma haromuka wal-amna amnuka wal-‘ibaada ‘ibaaduka wa nahnu ‘ibaaduka wa abnaa-u ‘ibaadika wahaadzaa maqoomul ‘aa-idzi bika minan naar, faharrim luhuumanaa wabasyarotanaa ‘alan naar. Alloohumma habbib ilainal iimaana wazayyinhu fii quluubinaa wakarrih ilainal kufro wal-fusuuqo wal-‘ishyaan, waj’alnaa minar roosyidiin. Alloohumma qinaa ‘adzaabaka yauma tab’atsu ‘ibaadaka, Alloohummarzuqnal jannata bighairi hisaab. \n \n Artinya: \n “Ya Allah, sesungguhnya Bait ini rumah-Mu, tanah mulia ini tanah-Mu, negeri aman ini negeri-Mu, hamba ini hamba-Mu anak dari hamba-Mu, dan tempat ini adalah tempat orang berlindung pada-Mu dari siksa neraka, maka haramkanlah daging dan kulit kami dari siksa neraka. Ya Allah, cintakanlah kami pada iman dan biarkanlah ia menghias hati kami, tanamkanlah kebencian pada diri kami pada perbuatan kufur, fasiq, maksiat dan durhaka serta masukkanlah kami dalam golongan orang yang mendapat petunjuk. Ya Allah, lindungilah kami dari azab-Mu di hari Engkau kelak membangkitkan hamba-hamba-Mu. Ya Allah anugerahkanlah surga kepada kami tanpa hisab.”\n \n Setiap kali sampai di rukun yamani mengusapnya. kalau tidak mungkin, maka cukup mengangkat tangan sambil mengucap:\n \n بِسْمِ اللهِ اَللّٰهُ أَكْبَرُ.\n \n Bismillaahi walloohu akbar. Artinya: “Dengan nama Allah, Allah Maha Besar.”\n \n Doa diantara rukun yamani dan hajar aswad: \n \n رَبَّنَا اٰتِنَا فِى الدُّنْيَا حَسَنَةً وَفِى اْلآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ.\n \n Robbanaa aatinaa fiddun-yaa hasanah, wafil-aakhiroti hasanah, waqinaa ‘adzaaban naar.\n \n Artinya: \n \"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka.\"\n \n Dapat ditambahkan:\n \n وَأَدْخِلْنَا الْجَنَّةَ مَعَ اْلأَبْرَارِ. يَاعَزِيْزُ يَاغَفَّارُ يَارَبَّ الْعَالَمِيْنَ. \n \n Wa adkhilnal jannata ma’al abroor, Yaa ‘aziizu yaa ghoffar, yaa robbal ‘aalamiin.\n \n Artinya: \n “Dan masukkanlah kami ke dalam surga bersama orang-orang yang berbuat baik, wahai Tuhan Yang Maha Perkasa, Maha Pengampun dan Tuhan yang menguasai seluruh alam.”"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

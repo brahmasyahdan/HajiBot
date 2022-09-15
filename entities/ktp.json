@@ -1,0 +1,9 @@
+{
+  "id": "30f644c7-1eec-487d-9e91-585461494091",
+  "name": "ktp",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

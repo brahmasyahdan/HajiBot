@@ -1,0 +1,32 @@
+[
+  {
+    "id": "5bc5ca78-2bb0-482f-b0ea-0709959cc9e8",
+    "data": [
+      {
+        "text": "NIAT ",
+        "userDefined": false
+      },
+      {
+        "text": "HAJI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "60129137-1847-4f65-8f43-145cd8e46b70",
+    "data": [
+      {
+        "text": "d6",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

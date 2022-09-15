@@ -1,0 +1,41 @@
+[
+  {
+    "id": "39ff6dd3-3fef-4a0f-bd5b-00698ed57c1b",
+    "data": [
+      {
+        "text": "syukron",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "31b01006-1ee6-4519-b915-319782a49ede",
+    "data": [
+      {
+        "text": "thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bfc6644b-b8d3-4559-8e8f-98028e7e9457",
+    "data": [
+      {
+        "text": "terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

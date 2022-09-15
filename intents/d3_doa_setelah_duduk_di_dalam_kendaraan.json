@@ -1,0 +1,46 @@
+{
+  "id": "c2680452-0479-4f51-b94d-f0318e32a051",
+  "name": "d3_doa_setelah_duduk_di_dalam_kendaraan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿 DOA SETELAH DUDUK DI DALAM KENDARAAN📿\n--------------------------------------------------------------------------------\nhttps://www.youtube.com/watch?v\u003dq--YCDoAlfQ\n \n بِسْمِ اللهِ مَجْرٰىهَا وَمُرْسٰـهَا اِنَّ رَبِّيْ لَغَفُوْرٌ رَحِيْمٌ. وَمَا قَدَرُوا اللهَ حَقَّ قَدْرِهِ وَاْلأَرْضُ جَمِيْعًا قَبْضَتُهُ يَوْمَ الْقِيَامَةِ وَالسَّمَوَاتُ مَطْوِيَّاتٌ بِيَمِيْنِهِ سُبْحَانَهُ وَتَعَالٰى عَمَّا يُشْرِكُوْنَ.\n \n Bismillaahi majreehaa wa mursaahaa inna rabbii laghafuurur rahiim. Wa maa qadarullooha haqqa qadrihii wal-ardhu jamii’an qabdhatuhuu yaumal qiyaamati was-samaawaatu mathwiyyaatum biyamiinihii subhaanahuu wa ta’aalaa ‘ammaa yusyrikuun.\n \n Artinya:\n “Dengan nama Allah di waktu berangkat dan berlabuh, sesungguhnya Tuhanku benar-benar Maha Pengampun dan Maha Penyayang. Dan mereka tidak mengagungkan Allah dengan pengagungan yang semestinya, padahal bumi seluruhnya dalam genggaman-Nya pada hari kiamat, dan langit digulung dengan kekuasaan-Nya. Maha Suci Allah dan Maha Tinggi Dia dari apa yang mereka persekutukan.”"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

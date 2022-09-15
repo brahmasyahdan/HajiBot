@@ -1,0 +1,89 @@
+{
+  "id": "acf7efc9-10bc-4f8c-92f8-149785ea119a",
+  "name": "q9.hak_jamaah",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2895467f-2b4e-4570-a579-80d774f8e794",
+          "name": "jamaah",
+          "required": false,
+          "dataType": "@jamaah",
+          "value": "$jamaah",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "142d1c4f-7f6e-4b5e-9361-3a9e3503e9ab",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "282a5248-a288-463f-a00e-cd16ad40140c",
+          "name": "daftar",
+          "required": false,
+          "dataType": "@daftar",
+          "value": "$daftar",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Jemaah Haji berhak mendapatkan pembinaan, pelayanan, dan perlindungan berupa:\n\n1. Pembimbingan manasik haji dan/atau materi lainnya, baik di tanah air, di perjalanan, maupun di Arab Saudi\n\n2. Pelayanan Akomodasi, konsumsi, Transportasi, dan Pelayanan Kesehatan yang memadai, baik di tanah air, selama di perjalanan, maupun di Arab Saudi.\nPerlindungan sebagai Warga Negara Indonesia\n\n3. Penggunaan Paspor Haji dan dokumen lainnya yang diperlukan untuk pelaksanaan Ibadah Haji\n\n4. Pemberian kenyamanan Transportasi dan pemondokan selama di tanah air, di Arab Saudi, dan saat kepulangan ke tanah air."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

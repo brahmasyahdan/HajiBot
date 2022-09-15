@@ -1,0 +1,46 @@
+{
+  "id": "a5ee4d05-0984-4726-9cec-33c17e5d2bc0",
+  "name": "d22_doa_thowaf_putaran_keenam",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿DOA THOWAF PUTARAN KEENAM 📿\n --------------------------------------------------------------------\n \n https://www.youtube.com/watch?v\u003d-uBu12oJQ44\n \n Dibaca mulai dari hajar Aswad sampai Rukun Yamani:\n \n Saat lurus dengan hajar aswad menghadapkan muka ke hajar aswad, seraya mengangkat tangan kanan dan membaca:\n \n بِسْمِ اللهِ اَللّٰهُ أَكْبَرُ\n \n Bismillaahi Alloohu akbar. Artinya: “Dengan nama Allah, Allah Maha Besar.”\n  \n Kemudian mengecup tangan kanan, lalu bergerak dengan posisi Ka’bah di sebelah kiri, membaca doa berikut:\n \n اَللّٰهُمَّ إِنَّ لَكَ عَلَيْنَا حُقُوْقًا كَثِيْرَةً فِيْمَا بَيْنَنَا وَ بَيْنَكَ وَ حُقُوْقًا كَثِيْرَةً فِيْمَا بَيْنَنَا وَ بَيْنَ خَلْقِكَ. اَللّٰهُمَّ مَا كَانَ لَكَ مِنْهَا فَاغْفِرْهُ لَنَا وَ مَا كَانَ لِخَلْقِكَ فَتَحَمَّلْهُ عَنَّا وَ أَغْنِنَا بِحَلاَلِكَ عَنْ حَرَامِكَ وَ بِطَاعَتِكَ عَنْ مَعْصِيَتِكَ وَ بِفَضْلِكَ عَمَّنْ سِوَاكَ يَا وَاسِعَ الْمَغْفِرَةِ. اَللّٰهُمَّ إِنَّ بَيْتَكَ عَظِيْمٌ وَ وَجْهَكَ كَرِيْمٌ وَ أَنْتَ يَا اَللّٰهُ حَلِيْمٌ كَرِيْمٌ عَظِيْمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنَّا.\n \n Alloohumma inna laka ‘alaynaa huquuqon katsiiratan fiimaa bainanaa wabainaka, wahuquuqon katsiiratan fiimaa bainanaa wabaina kholqika. Alloohumma maa kaana laka minhaa faghfirhu lanaa wamaa kaana likholqika fatahammalhu ‘annaa wa aghninaa bihalaalika ‘an haroomika wa bithoo’atika ‘an ma’shiyatika wabifadhlika ‘amman siwaaka yaa waasi’al maghfiroh. Alloohumma inna baitaka ‘azhiimun wawajhaka kariimun wa anta yaa Alloohu haliimun kariimun ‘azhiimun tuhibbul ‘afwa fa’fu ‘annaa.\n \n Artinya: “Ya Allah, sesungguhnya Engkau mempunyai hak kepada kami banyak sekali dalam hubungan kami dengan Engkau. Dan Engkau juga mempunyai hak banyak sekali dalam hubungan kami dengan makhluk-Mu. Ya Allah, apa yang menjadi hak-Mu kepada kami, maka ampunilah diri kami. Dan apa saja yang menjadi hak-Mu kepada makhluk-Mu maka tanggunglah dari kami, cukupkanlah kami dengan rizki-Mu yang halal, terhindar daripada yang haram, dengan taat kepada-Mu terhindar dari kemaksiatan, dan dengan anugerah-Mu terhindar daripada mengharapkan dari orang lain selain dari pada-Mu, wahai Tuhan Yang Maha pengampun. Ya Allah, sesungguhnya rumah-Mu (Baitullah) ini agung. Zat-Mu pun mulia, Engkau Maha penyabar, Maha Pemurah, Maha Agung yang sangat suka memberi ampun, maka ampunilah kami.”\n \n Setiap kali sampai di rukun yamani mengusapnya. kalau tidak mungkin, maka cukup mengangkat tangan sambil mengucap:\n \n بِسْمِ اللهِ اَللّٰهُ أَكْبَرُ.\n \n Bismillaahi walloohu akbar. Artinya: “Dengan nama Allah, Allah Maha Besar.”\n \n Doa diantara rukun yamani dan hajar aswad: \n \n رَبَّنَا اٰتِنَا فِى الدُّنْيَا حَسَنَةً وَفِى اْلآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ.\n \n Robbanaa aatinaa fiddun-yaa hasanah, wafil-aakhiroti hasanah, waqinaa ‘adzaaban naar.\n \n Artinya: \n \"Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka.\"\n \n Dapat ditambahkan:\n \n وَأَدْخِلْنَا الْجَنَّةَ مَعَ اْلأَبْرَارِ. يَاعَزِيْزُ يَاغَفَّارُ يَارَبَّ الْعَالَمِيْنَ. \n \n Wa adkhilnal jannata ma’al abroor, Yaa ‘aziizu yaa ghoffar, yaa robbal ‘aalamiin.\n \n Artinya: \n “Dan masukkanlah kami ke dalam surga bersama orang-orang yang berbuat baik, wahai Tuhan Yang Maha Perkasa, Maha Pengampun dan Tuhan yang menguasai seluruh alam.”"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

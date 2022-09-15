@@ -1,0 +1,46 @@
+{
+  "id": "cd46f11a-7ae3-4e99-afc0-4582136e6a31",
+  "name": "d0_awalan_doa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿 D0 AWALAN DOA📿\n-----------------------------------------\n\n \n https://www.youtube.com/watch?v\u003d9OFy1-hfsSY\n \n بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ, الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ, اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى اٰلِ سَيِّدِنَا مُحَمَّدٍ.\n \n Bismillaahirrohmaanirrohiim, alhamdulillaahi robbil ‘aalamiin, Alloohumma sholli wa sallim ‘alaa sayyidinaa Muhammadin wa ‘alaa aali sayyidinaa Muhammad.\n \n Artinya:\n \"Dengan Nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan semesta alam. Ya Allah berilah salawat dan salam kepada Nabi Muḥammad dan keluarganya.\""
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

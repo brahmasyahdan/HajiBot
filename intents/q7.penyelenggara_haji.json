@@ -1,0 +1,61 @@
+{
+  "id": "fc7bf940-b549-4668-8a08-68771e40d109",
+  "name": "q7.penyelenggara_haji",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8e55f121-b1f6-4382-8cbf-71c17266cc5d",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Penyelenggaraan Ibadah Haji adalah rangkaian kegiatan pengelolaan pelaksanaan Ibadah Haji yang meliputi pembinaan, pelayanan, dan perlindungan Jemaah Haji.\nPenyelenggaraan Ibadah Haji meliputi unsur kebijakan, pelaksanaan dan pengawasan. Kebijakan dan pelaksanaan dalam penyelenggaraan ibadah haji merupakan tugas nasional dan menjadi tanggung jawab Pemerintah."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

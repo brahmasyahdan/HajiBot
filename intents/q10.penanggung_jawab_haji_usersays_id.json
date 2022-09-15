@@ -1,0 +1,44 @@
+[
+  {
+    "id": "87acff76-acbf-4ad7-94c9-22a599b0d093",
+    "data": [
+      {
+        "text": "Siapa yang bertanggung jawab atas penyelenggaraan ibadah ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "84a62a95-6b8b-4d28-a951-e240fa2cb9ce",
+    "data": [
+      {
+        "text": "Siapakah penanggung jawab penyelenggaraan ibadah ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

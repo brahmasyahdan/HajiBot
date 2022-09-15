@@ -1,0 +1,46 @@
+{
+  "id": "afd532bc-3f72-40f3-85dd-1c5900b8719f",
+  "name": "d8_bacaan_talbiyah",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "📿BACAAN TALBIYAH📿\n ------------------------------------------------------------------------------\n\n\n https://www.youtube.com/watch?v\u003dN8f77PIYNf4\n \n لَبَّيْكَ اللّٰهُمَّ لَبَّيْكَ، لَبَّيْكَ لاَ شَرِيْكَ لَكَ لَبَّيْكَ، اِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالمُلْكَ لاَ شَرِيْكَ لَكَ.\n \n Labbaikalloohumma labbaik, labbaika laa syariika laka labbaik, innal hamda wan-ni’mata laka wal-mulk, laa syariika lak.\n \n Artinya: “Kami datang memenuhi panggilan-Mu ya Allah, kami datang memuhi panggilan-Mu tidak ada sekutu bagi-Mu, kami dating memenuhi panggilan-Mu. Sesungguhnya segala puji, nikmat dan segenap kekuasaan adalah milik-Mu, tidak ada sekutu bagi-Mu.”"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

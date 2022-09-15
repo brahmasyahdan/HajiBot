@@ -1,0 +1,83 @@
+{
+  "id": "82001ea7-2aac-431a-9456-521701a19c54",
+  "name": "btn_wafat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🟢"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🧾Persyaratan Haji Karena Wafat🧾\n-----------------------------------------------------------------------------------------\n\nJika pendaftar meninggal dunia maka bisa mengejukan pembatalan pendaftaran untuk jemaah haji dengan alasan meninggal dunia sebelum proses keberangkatan ke embarkasi haji, pembatalan pendaftaran jemaah haji dilakukan di Kemenag asal oleh ahli waris atau kuasa waris dengan membawa persyaratan sebagai berikut :\n\n1. Surat permohonan pembatalan bermaterai Rp 6000,- dari ahli waris atau kuasa waris jemaah haji yang meninggal dunia yang ditujukan kepada Kepala KanKemenag kota asal\n\n2. Surat keterangan kematian yang dikeluarkan oleh Lurah / Kepala Desa / Rumah Sakit setempat\n\n3. Surat keterangan waris bermaterai Rp 6000,- yang dikeluarkan oleh Lurah / Kepala Desa dan diketahui oleh Camat\n\n4. Surat keterangan kuasa waris yang ditunjuk ahli waris untuk melakukan pembatalan pendaftaran jemaah haji bermaterai Rp 6000,-\n\n5. Fotocopy KTP dan KK ahli waris / kuasa waris jemaah haji yang mengajukan pembatalan pendaftaran jemaah haji dan memperlihatkan aslinya\n\n6. Fotocopy KTP dan KK calon jamaah haji\n\n7. Bukti Asli setoran awal BPIH yang dikeluarkan BPS BPIH\n\n8. Asli aplikasi transfer setoran awal BPIH ke rekening Menteri Agama\n\n9. SPPH Asli\n\n10. Foto/copy buku tabungan yang masih aktif atas nama jemaah haji yang bersangkutan dan memperlihatkan aslinya\n\n11. Fotocopy buku tabungan ahli waris (dengan ketentuan Bank yang Sama dengan Tabungan setoran awal yang di batalkan)\n\n12. Semua rangkap 2 (dua)"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Klik tombol di bawah ini untuk ke menu sebelumnya",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "btn_batal",
+              "text": "↪️ Kembali"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🔴"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "71106bdf-9403-41c9-8c25-77519fd2ebaf",
+    "data": [
+      {
+        "text": "btn_bantuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1086d2e7-3231-48ce-9706-e1c635d9710e",
+    "data": [
+      {
+        "text": "tolong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3bff425c-5914-49b9-a4ad-3c9b71859948",
+    "data": [
+      {
+        "text": "help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0ae4ef74-6b42-44d9-81db-db2b8cabcfb8",
+    "data": [
+      {
+        "text": "bantuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

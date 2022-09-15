@@ -1,0 +1,154 @@
+[
+  {
+    "id": "4e47a005-fcc4-460c-b275-fb2007d48c0f",
+    "data": [
+      {
+        "text": "Harga",
+        "meta": "@harga",
+        "alias": "harga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "65663a23-0006-44a7-bc8c-8c3682428d28",
+    "data": [
+      {
+        "text": "Untuk saat ini berapakah",
+        "userDefined": false
+      },
+      {
+        "text": " biaya ",
+        "userDefined": false
+      },
+      {
+        "text": "pendaftaran",
+        "meta": "@daftar",
+        "alias": "daftar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0031e906-9bcf-4ebb-9b6b-f76cc2d50c0f",
+    "data": [
+      {
+        "text": "Biaya",
+        "meta": "@harga",
+        "alias": "harga",
+        "userDefined": false
+      },
+      {
+        "text": " haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "63e6308c-d7b8-412f-a5cf-68c5828fa996",
+    "data": [
+      {
+        "text": "Berapa ",
+        "userDefined": false
+      },
+      {
+        "text": "rupiah",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      },
+      {
+        "text": " uang yang diperlukan untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "mendaftar",
+        "meta": "@daftar",
+        "alias": "daftar",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "haji?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fa6c9a93-9a09-4c2e-a62a-89c1fcd1caec",
+    "data": [
+      {
+        "text": "Berapa uang yang diperlukan ",
+        "userDefined": false
+      },
+      {
+        "text": "daftar",
+        "meta": "@daftar",
+        "alias": "daftar",
+        "userDefined": true
+      },
+      {
+        "text": " haji?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "512cbe12-d74f-4283-9311-25f1871545dd",
+    "data": [
+      {
+        "text": "Biaya",
+        "meta": "@harga",
+        "alias": "harga",
+        "userDefined": true
+      },
+      {
+        "text": " daftar ",
+        "userDefined": false
+      },
+      {
+        "text": "haji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

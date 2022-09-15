@@ -1,0 +1,83 @@
+{
+  "id": "8d56d671-b541-4f3b-b777-619b54ca173c",
+  "name": "btn_pengembalian_dana_batal_haji",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🟢"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🧾Pengembalian Dana Jamaah Haji🧾\n-----------------------------------------------------------------------------------------\n\nJemaah haji mengajukan permohonan pengembalian setoran pelunasan Bipih secara tertulis kepada Kepala Kantor Kementerian Agama Kabupaten/Kota (Kankemenag Kab/Kota) dengan menyertakan:\n1). Bukti asli setoran lunas Bipih yang dikeluarkan oleh Bank Penerima Setoran (BPS) BPIH\n2). Fotokopi buku tabungan yang masih aktif atas nama jemaah haji dan memperlihatkan aslinya Fotokopi KTP dan memperlihat aslinya \n3). Nomor telepon yang bisa dihubungi"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Klik tombol di bawah ini untuk ke menu sebelumnya",
+          "title": "",
+          "buttons": [
+            {
+              "postback": "btn_lainnya",
+              "text": "↪️ Kembali"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "🔴"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

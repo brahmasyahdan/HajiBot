@@ -1,0 +1,61 @@
+{
+  "id": "7273e6fd-0414-4bb6-a9af-28f732f85787",
+  "name": "q1_porsi_haji",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "88c8d558-6d24-49d8-9f91-79df836bbf67",
+          "name": "last-Porsi",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-Porsi",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Nomor porsi haji yang dialokasikan untuk anda akan tertulis di kertas SPPH atau Surat Pendaftaran Pergi Haji atau yang diterima dari Kementerian Agama.\nFormat nomor porsi haji adalah 10 digit angka, seperti: 0200249714, \nApabila hilang maka anda tidak bisa mengecek jadwal keberangkatan anda\nJika nomor porsi Haji tidak bisa di cek, atau SPPH hilang silahkan datangi kantor Kementerian Agama, bisa ke kantor tempat dimana kamu mendaftar haji."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
